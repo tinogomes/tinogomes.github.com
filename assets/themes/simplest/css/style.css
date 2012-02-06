@@ -22,6 +22,10 @@ a {
 	text-decoration: none;
 }
 
+abbr {
+	font-weight: bold;
+}
+
 #main{
 	-moz-border-radius: 6px;
 	-webkit-border-radius: 6px;

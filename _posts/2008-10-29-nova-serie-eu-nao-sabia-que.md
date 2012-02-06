@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nova s\xC3\xA9rie: \"Eu n\xC3\xA3o sabia que...\""
+title: "Nova série: \"Eu não sabia que...\""
 tags:
 - dicas
 - "eu n\xC3\xA3o sabia que"

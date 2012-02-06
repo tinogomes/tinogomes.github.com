@@ -1,7 +1,7 @@
---- 
+---
 layout: post
-title: "Lorem Ipsum no Brasigo tamb\xC3\xA9m acontece..."
-tags: 
+title: "Lorem Ipsum no Brasigo também acontece..."
+tags:
 - brasigo
 - geral
 - lorem ipsum
@@ -9,7 +9,7 @@ tags:
 status: publish
 type: post
 published: true
-meta: 
+meta:
   _edit_last: "2440922"
   delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1229527045";}
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1325090461";}

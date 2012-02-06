@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Treinamento sobre Nota Fiscal Eletr\xC3\xB4nica"
+title: "Treinamento sobre Nota Fiscal Eletrônica"
 tags:
 - geral
 - "nota fiscal eletr\xC3\xB4nica"

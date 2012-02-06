@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Atalhos para comandos de script de aplica\xC3\xA7\xC3\xB5es Rails"
+title: "Atalhos para comandos de script de aplicações Rails"
 tags:
 - atalhos
 - github

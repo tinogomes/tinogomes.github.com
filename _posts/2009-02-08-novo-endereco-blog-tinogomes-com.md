@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Novo endere\xC3\xA7o: http://blog.tinogomes.com"
+title: "Novo endereço: http://blog.tinogomes.com"
 tags:
 - geral
 status: publish

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mocha 0.9.5 compat\xC3\xADvel com Ruby 1.9.1"
+title: "Mocha 0.9.5 compatível com Ruby 1.9.1"
 tags:
 - gems
 - mocha

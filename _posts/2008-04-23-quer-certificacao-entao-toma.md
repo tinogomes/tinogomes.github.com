@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quer certifica\xC3\xA7\xC3\xA3o? Ent\xC3\xA3o toma!"
+title: "Quer certificação? Então toma!"
 tags:
 - agil
 - agile

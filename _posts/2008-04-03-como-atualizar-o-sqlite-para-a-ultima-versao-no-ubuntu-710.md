@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Como atualizar o SQLite para a \xC3\xBAltima vers\xC3\xA3o (no Ubuntu 7.10)"
+title: "Como atualizar o SQLite para a última versão (no Ubuntu 7.10)"
 tags:
 - linux
 - sqlite

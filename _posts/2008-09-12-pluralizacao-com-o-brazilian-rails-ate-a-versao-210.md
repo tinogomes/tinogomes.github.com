@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pluraliza\xC3\xA7\xC3\xA3o com o Brazilian Rails s\xC3\xB3 at\xC3\xA9 a vers\xC3\xA3o 2.1.0"
+title: "Pluralização com o Brazilian Rails só até a versão 2.1.0"
 tags:
 - ruby
 status: publish

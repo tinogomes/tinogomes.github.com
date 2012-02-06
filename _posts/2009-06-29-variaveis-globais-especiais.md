@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vari\xC3\xA1veis globais especiais"
+title: "Variáveis globais especiais"
 tags:
 - ruby
 - "vari\xC3\xA1vel global"

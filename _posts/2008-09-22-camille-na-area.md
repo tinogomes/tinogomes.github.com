@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Camille na \xC3\xA1rea"
+title: "Camille na área"
 tags:
 - camille
 - geral

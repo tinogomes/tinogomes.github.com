@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pra vida! Criar aplica\xC3\xA7\xC3\xA3o Rails de uma vers\xC3\xA3o espec\xC3\xADfica"
+title: "Pra vida! Criar aplicação Rails de uma versão específica"
 tags:
 - pra vida
 - rails

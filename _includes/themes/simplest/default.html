@@ -14,7 +14,7 @@
 	<meta name="author" content="{{ site.author.name }}">
 	<link href='{{ ASSET_PATH }}/css/default.css' rel="stylesheet" media="all">
 	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="all">
-	<link href="http://feeds.feedburner.com/{{ site.author.feedburner }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
+	<link href="http://feeds.feedburner.com/{{ site.author.feedburner }}/" rel="alternate" title="{{ site.title }}" type="application/atom+xml">
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
 </head>
 <body>
@@ -28,7 +28,9 @@
 			<ul>
 				<li><a href="/resumo">Resumo</a></li>
 				<li><a href="/sobre">Sobre mim</a></li>
-				<li><a href="/atom..xml">RSS</a></li>
+				<li>
+					<a href="http://feeds.feedburner.com/tinogomes" title="Assine meu feed" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon32x32.png" alt="RSS" style="border:0"/></a>
+				</li>
 			</ul>
 		</nav>
 	</header>

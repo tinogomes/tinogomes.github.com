@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Textmate apenas com o que \xC3\xA9 necess\xC3\xA1rio"
+title: "Textmate apenas com o que é necessário"
 tags:
 - agil
 - alias

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plugin para Integra\xC3\xA7\xC3\xA3o Cont\xC3\xADnua on Rails"
+title: "Plugin para Integração Contínua on Rails"
 tags:
 - agil
 - agile

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Como testar m\xC3\xA9todos privados?"
+title: "Como testar métodos privados?"
 tags:
 - ruby
 - spec

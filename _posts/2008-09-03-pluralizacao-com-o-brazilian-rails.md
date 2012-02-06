@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pluraliza\xC3\xA7\xC3\xA3o com o Brazilian Rails?"
+title: "Pluralização com o Brazilian Rails?"
 tags:
 - brazilian_rails
 - gems
