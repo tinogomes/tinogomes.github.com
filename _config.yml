@@ -69,7 +69,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : tinogomes
+      short_name : blogtinogomes
 
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
