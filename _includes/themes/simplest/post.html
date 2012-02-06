@@ -35,3 +35,14 @@
 
 	{% include JB/comments %}
 </div>
+
+{% if site.related_posts.size > 0 %}
+	<aside id="related_posts">
+		<h1>Posts relacionados</h1>
+		<ul>
+			{% for related in site.related_posts limit:3 %}
+			<li><a href="{{ related.url }}/" target="_top">{{ related.title }}</a></li>
+			{% endfor %}
+		</ul>
+	</aside>
+{% endif%}
