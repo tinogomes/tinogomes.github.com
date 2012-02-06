@@ -6,7 +6,7 @@ layout: default
 {% assign archieve = site.posts %}
 {% assign first_post = archieve.first %}
 
-{% if archieve > 0 %}
+{% if archieve.size > 0 %}
 <header>
 	<h1><a href="{{ first_post.url }}">{{ first_post.title }}</a></h1>
 </header>
