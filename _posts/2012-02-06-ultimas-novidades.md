@@ -18,9 +18,9 @@ Meu blog estava hospedado no <http://tinogomes.wordpress.com>, o que sempre me a
 
 Isto mesmo, depois de 9 meses na [Concrete Solutions](http://twitter.com/ConcreteS), recebi um convite para voltar a [Editora Abril](http://www.grupoabril.com.br/) e digamos que foi um convite irrecusável devido aos desafios que vamos ter pela frente. Mas saí da <abbr title="Concrete Solutions">CS</abbr> com o "coração partido" pois é, apesar de ser uma consultoria, você não percebe que está em uma, devido a posição que a empresa adota como gestão de desenvolvimento. Se precisar de uma [consultoria em desenvolvimento, sugiro a Concrete Solutions](http://www.concretesolutions.com.br/ "Site da Concrete Solutions") sem medo de errar.
 
-Então, quero deixar aqui meu agradecimento pessoal ao [Bruno Pereira](http://twitter.com/bplsilva) pela oportunidade de me juntar ao time da CS SP e a todos os "brodas" que me aturaram nesses dias tranqüilos e turbulentos.
+Então, quero deixar aqui meu agradecimento pessoal ao [Bruno Pereira](http://twitter.com/blpsilva) pela oportunidade de me juntar ao time da CS SP e a todos os "brodas" que me aturaram nesses dias tranqüilos e turbulentos.
 
-[Alexandre Cardoso](http://twitter.com/accbel), [Antônio Carlos](http://twitter.com/acdesouza), [Cássio Marques](http://twitter.com/cassiomarques), [Fernando de la Riva](http://twitter.com/fdelariva), [João Felipe](http://twitter.com/jfelipesp), [Lenon Marcel](http://twitter.com/lenonm), [Luca Bastos](http://twitter.com/lucabastos), [Marcelo Linhares](http://twitter.com/marcelolinhares), [Renata Martins](http://twitter.com/renatagmartins), [Renato Elias](http://twitter.com/renatoelias), [Victor Oliveira](http://twitter.com/v_oliv) e [Washigton Botelho](http://twitter.com/wbotelhos)
+[Alexandre Cardoso](http://twitter.com/accbel), [Antônio Carlos](http://twitter.com/acdesouza), [Cássio Marques](http://twitter.com/cassiomarques), [Fernando de la Riva](http://twitter.com/fdelariva), [João Felipe](http://twitter.com/jfelipesp), [Lenon Marcel](http://twitter.com/lenonm), [Luca Bastos](http://twitter.com/lucabastos), Marcelo Linhares, [Renata Martins](http://twitter.com/renatagmartins), [Renato Elias](http://twitter.com/renatoelias), [Victor Oliveira](http://twitter.com/v_oliv), [Washigton Botelho](http://twitter.com/wbotelhos) e [Willian Fernandes](http://twitter.com/willian)
 
 e também:
 
