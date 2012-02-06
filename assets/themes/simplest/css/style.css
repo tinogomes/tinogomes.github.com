@@ -15,7 +15,7 @@ body{font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;font-size:13px;f
 hr{margin-top:35px;border:0;border-top:1px dotted #ccc;width:620px;color:#fff;clear:both;}
 /*Reset CSS*/
 
-a {
+a, a:link, a:hover, a:visited {
 	border-bottom: 1px dotted black;
 	color: black;
 	font-weight: 600;
@@ -89,13 +89,6 @@ abbr {
 	font-size: 18px;
 	font-weight: 400;
 	padding: 15px;
-}
-
-#header a, #footer a {
-	border-bottom: 1px dotted black;
-	color: black;
-	font-weight: 600;
-	text-decoration: none;
 }
 
 article header {
@@ -200,17 +193,54 @@ p code {
 }
 
 #footer ul {
-	height: 50px;
+	height: 35px;
 	margin-bottom: 2px;
 }
 
 #footer li {
 	display: inline;
 	float: left;
+	height: 35px;
+	line-height: 35px;
 	margin-right: 5px;
 	position: relative;
 	text-align: center;
 	width: auto;
+}
+
+.icon {
+	width: 32px;
+	height: 32px;
+}
+
+.icon a, .icon a:link, .icon a:visited {
+	border: 0;
+	color: transparent;
+	display: inline-block;
+	height: 35px;
+	overflow: hidden;
+	padding-left: 10px;
+	width: 35px;
+}
+
+.delicious a {
+	background:url('/assets/themes/simplest/images/delicious.png') no-repeat;
+}
+
+.github a {
+	background:url('/assets/themes/simplest/images/github.png') no-repeat;
+}
+
+.linkedin a {
+	background:url('/assets/themes/simplest/images/linkedin.png') no-repeat;
+}
+
+.rss a {
+	background:url('/assets/themes/simplest/images/rss.png') no-repeat;
+}
+
+.twitter a {
+	background:url('/assets/themes/simplest/images/twitter.png') no-repeat;
 }
 
 .paginate {
