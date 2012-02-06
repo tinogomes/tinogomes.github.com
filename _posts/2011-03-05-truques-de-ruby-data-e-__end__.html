@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Truques de Ruby: DATA e __END__"
+tags:
+- dicas
+- ruby
+- truques
+- tutorial
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: "2440922"
+  jabber_published: "1299304343"
+  _wpas_done_yup: "1"
+  _wpas_done_twitter: "1"
+  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1299499884";}
+  reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1325090333";}
+  _wpas_skip_fb: "1"
+---
+<p>
+Em <a href="http://www.ruby-lang.org/en/">Ruby</a>, temos algumas <a href="http://www.zenspider.com/Languages/Ruby/QuickRef.html#20">CONSTANTES GLOBAIS</a> que facilitam nossa vida. Nesse post, lhes apresento <code>DATA</code> e <code>__END__</code>.
+</p>
+
+<p>
+Normalmente os arquivos de scripts em Ruby são finalizados com <a href="http://en.wikipedia.org/wiki/End-of-file">EOF</a>, mas você pode indicar onde será o fim do script, adicionando a constante <code>__END__</code> e com isso, todo bloco abaixo de <code>__END__</code> não será processado pelo Ruby como comandos da linguagem. Então, podemos usar a constante <code>DATA</code>, que é uma instância de File do arquivo de script atual, porém considerando apenas o conteúdo que está abaixo da constante <code>__END__</code>. Vejamos alguns exemplos para entender melhor como funciona
+</p>
+
+{% highlight ruby linenos %}
+require "yaml"
+obj = YAML::load(DATA)
+
+p obj
+
+__END__
+---
+  -
+    name: Adam
+    age: 28
+    admin: true
+  -
+    name: Maggie
+    age: 28
+    admin: false
+{% endhighlight %}
+
+<p>
+<a href="http://shifteleven.com/articles/2009/02/09/useless-ruby-tricks-data-and-__end__">Neste post de onde peguei o exemplo acima, apresenta outro uso com sinatra</a>.
+</p>
