@@ -20,7 +20,7 @@ Isto mesmo, depois de 9 meses na [Concrete Solutions](http://twitter.com/Concret
 
 Então, quero deixar aqui meu agradecimento pessoal ao [Bruno Pereira](http://twitter.com/blpsilva) pela oportunidade de me juntar ao time da CS SP e a todos os "brodas" que me aturaram nesses dias tranqüilos e turbulentos.
 
-[Alexandre Cardoso](http://twitter.com/accbel), [Antônio Carlos](http://twitter.com/acdesouza), [Cássio Marques](http://twitter.com/cassiomarques), [Fernando de la Riva](http://twitter.com/fdelariva), [João Felipe](http://twitter.com/jfelipesp), [Lenon Marcel](http://twitter.com/lenonm), [Luca Bastos](http://twitter.com/lucabastos), Marcelo Linhares, [Renata Martins](http://twitter.com/renatagmartins), [Renato Elias](http://twitter.com/renatoelias), [Victor Oliveira](http://twitter.com/v_oliv), [Washigton Botelho](http://twitter.com/wbotelhos) e [Willian Fernandes](http://twitter.com/willian)
+[Alexandre Cardoso](http://twitter.com/accbel), [Antônio Carlos](http://twitter.com/acdesouza), [Cássio Marques](http://twitter.com/cassiomarques), [Fernando de la Riva](http://twitter.com/fdelariva), [João Felipe](http://twitter.com/jfelipesp), [Lenon Marcel](http://twitter.com/lenonm), [Luca Bastos](http://twitter.com/lucabastos), [Marcelo Linhares](http://www.marcelolinhares.com/v3/), [Renata Martins](http://twitter.com/renatagmartins), [Renato Elias](http://twitter.com/renatoelias), [Victor Oliveira](http://twitter.com/v_oliv), [Washigton Botelho](http://twitter.com/wbotelhos) e [Willian Fernandes](http://twitter.com/willian)
 
 e também:
 
