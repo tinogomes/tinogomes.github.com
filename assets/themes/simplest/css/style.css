@@ -26,6 +26,12 @@ abbr {
 	font-weight: bold;
 }
 
+#adsense {
+	clear: both;
+	display: block;
+	margin: 5px 30px;
+}
+
 #main{
 	-moz-border-radius: 6px;
 	-webkit-border-radius: 6px;
