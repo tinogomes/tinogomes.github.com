@@ -27,6 +27,18 @@ layout: default
   </nav>
 </aside>
 
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3883919991008738";
+/* blog */
+google_ad_slot = "4202125361";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
 <div class="content">
 	{{ first_post.content }}
 	<a id="more" href="{{ first_post.url }}#disqus">Comments &raquo;</a>
