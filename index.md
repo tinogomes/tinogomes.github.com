@@ -27,6 +27,12 @@ layout: default
   </nav>
 </aside>
 
+<div class="content">
+	{{ first_post.content }}
+	<a id="more" href="{{ first_post.url }}#disqus">Ver comentários &raquo;</a>
+</div>
+{% endif %}
+
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-3883919991008738";
 /* blog */
@@ -38,12 +44,6 @@ google_ad_height = 90;
 <script type="text/javascript"
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-
-<div class="content">
-	{{ first_post.content }}
-	<a id="more" href="{{ first_post.url }}#disqus">Comments &raquo;</a>
-</div>
-{% endif %}
 
 {% if archieve.size > 1 %}
 <h2>Posts mais antigos</h2>
