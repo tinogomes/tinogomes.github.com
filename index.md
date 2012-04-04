@@ -29,7 +29,7 @@ layout: default
 
 <div class="content">
 	{{ first_post.content }}
-	<a id="more" href="{{ first_post.url }}#disqus">Ver comentários &raquo;</a>
+	<p><a id="more" href="{{ first_post.url }}#disqus">Ver comentários &raquo;</a></p>
 </div>
 {% endif %}
 
@@ -52,7 +52,7 @@ layout: default
 <ul class="posts">
 	{% for post in archieve %}
 		{% if post != first_post %}
-			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+			<li><a href="{{ BASE_PATH }}{{ post.url }}"><span>{{ post.date | date_to_string }}</span> &raquo; {{ post.title }}</a></li>
 		{% endif %}
 	{% endfor %}
 </ul>

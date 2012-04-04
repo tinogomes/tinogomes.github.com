@@ -23,6 +23,7 @@ Sempre esqueço como levantar um servidor HTTP local para um diretório específ
 
 Só isso...
 
-References:
+Referências:
+
 * <http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python>
 * <http://docs.python.org/library/simplehttpserver.html>
