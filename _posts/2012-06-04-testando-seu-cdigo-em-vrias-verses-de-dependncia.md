@@ -47,6 +47,8 @@ e executar:
 
     $ rake test_all
 
+**ATUALIZAÇÃO:** Se você, como nós, tem uma gem pública, existe a possibilidade de usar o [Travis CI](http://travis-ci.org/tapajos/brazilian-rails) para verificação em várias versões de Rails e Rubies.
+
 Referências:
 
 * <http://blog.agoragames.com/blog/2011/05/27/testing-multiple-ruby-versions-and-gemsets-using-rvm/>
