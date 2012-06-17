@@ -13,7 +13,7 @@ layout: default
 			<span>{{ post.date | date_to_string }}</span>
 		</dt>
 		<dl class="link">
-			<a href="{{ BASE_PATH }}{{ post.url }}" class="link" rel="post">{{ BASE_PATH }}{{ post.url }}</a>
+			<a href="{{ BASE_PATH }}{{ post.url }}" class="link" rel="post">{{ site.production_url }}{{ post.url }}</a>
 		</dl>
 	{% endfor %}
 {% endif %}
