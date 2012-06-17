@@ -4,7 +4,7 @@
 
 a, a:link, a:hover, a:visited {
 	border-bottom: 1px dotted black;
-	color: black;
+	color: #000;
 	font-weight: 600;
 	text-decoration: none;
 }
@@ -151,6 +151,7 @@ article img {
 	display: block;
 	vertical-align: center;
 }
+
 article ol {
 	list-style: decimal;
 	margin: 0 0 0 25px;
@@ -163,6 +164,24 @@ article ul {
 
 article li {
 	display: list-item;
+}
+
+.posts .title {
+	font-size: 24px;
+	font-weight: normal;
+	margin: 15px 0 0;
+}
+
+.posts .title span {
+	color: #666;
+	font-size: 0.5em;
+	vertical-align: top;
+}
+
+.posts .link {
+	color: #666;
+	font-size: 10px;
+	font-weight: normal;
 }
 
 pre {
@@ -187,7 +206,7 @@ p code {
 
 #footer ul {
 	height: 35px;
-	margin-bottom: 2px;
+	margin: 10px 0 2px;
 }
 
 #footer li {
