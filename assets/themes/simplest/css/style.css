@@ -3,10 +3,17 @@
 /**End of Tino Gomes CSS Reset*/
 
 a, a:link, a:hover, a:visited {
-	border-bottom: 1px dotted black;
 	color: #000;
 	font-weight: 600;
 	text-decoration: none;
+}
+
+a, a:link, a:visited {
+	border-bottom: 1px dotted black;
+}
+
+a:hover {
+	border-bottom: 1px solid black;
 }
 
 abbr {
@@ -182,6 +189,14 @@ article li {
 	color: #666;
 	font-size: 10px;
 	font-weight: normal;
+}
+
+.posts .link a {
+	border-bottom: 0;
+}
+
+.posts .link a:hover {
+	text-decoration: underline;
 }
 
 pre {
