@@ -7,11 +7,15 @@ published: true
 ---
 {% include JB/setup %}
 
+**ATUALIZAÇÃO 1:** Se você, como nós, tem uma gem pública, existe a possibilidade de usar o [Travis CI](http://travis-ci.org/tapajos/brazilian-rails) para verificação em várias versões de Rails e Rubies.
+
+**ATUALIZAÇÃO 2:** deve-se usar o comando *DO* do RVM <https://rvm.io/set/do/>
+
 Preciso verificar se o [Brazilian Rails](https://github.com/tapajos/brazilian-rails/) funciona em várias versões do [Rails](https://github.com/rails/rails/), 2.3.x, 3.0.x, 3.1.x e 3.2.x e [Ruby](http://ruby-lang.org/) 1.8.7 e 1.9.x. Como faz?
 
 Com [RVM](https://rvm.io/), seria:
 
-    $ rvm 1.8.7@rails23x,1.8.7@rails30x,1.8.7@rails31x,1.8.7@rails32x,[até],1.9.3@rails32x rake
+    $ rvm 1.8.7@rails23x,1.8.7@rails30x,1.8.7@rails31x,1.8.7@rails32x,[até],1.9.3@rails32x do rake
 
 Claro, existe um script automatizando isto, mas ainda sim é feio d+.
 
@@ -21,11 +25,11 @@ Outra é usar o [Appraisal](https://github.com/thoughtbot/appraisal), que se int
 
 Seguindo os passos conforme indicado no README do projeto, no meu ambiente fico com apenas um gemset por versão de Ruby.
 
-    $ rvm 1.8.7@brazilianrails,1.9.1@brazilianrails,1.9.2@brazilianrails,1.9.3@brazilianrails rake test_spec
+    $ rvm 1.8.7@brazilianrails,1.9.1@brazilianrails,1.9.2@brazilianrails,1.9.3@brazilianrails do rake test_spec
 
 Para quem não separa as instalações por gemset, usando apenas o default, fica ainda mais limpo.
 
-    $ rvm 1.8.7,1.9.1,1.9.2,1.9.3 rake test_spec
+    $ rvm 1.8.7,1.9.1,1.9.2,1.9.3 do rake test_spec
 
 E se seguir a sugestão de David Czarneck, basta criar uma tarefa Rake,
 
@@ -39,15 +43,13 @@ end
 
 desc "Runs tests on Ruby 1.8.7 and 1.9.2"
 task :test_all do
-  system "rvm 1.8.7@brazilianrails,1.9.1@brazilianrails,1.9.2@brazilianrails,1.9.3@brazilianrails rake test_spec"
+  system "rvm 1.8.7@brazilianrails,1.9.1@brazilianrails,1.9.2@brazilianrails,1.9.3@brazilianrails do rake test_spec"
 end
 {% endhighlight %}
 
 e executar:
 
     $ rake test_all
-
-**ATUALIZAÇÃO:** Se você, como nós, tem uma gem pública, existe a possibilidade de usar o [Travis CI](http://travis-ci.org/tapajos/brazilian-rails) para verificação em várias versões de Rails e Rubies.
 
 Referências:
 
