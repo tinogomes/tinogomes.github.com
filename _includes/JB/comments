@@ -1,6 +1,8 @@
 {% if site.JB.comments.provider and page.JB.comments != false %}
 
 {% case site.JB.comments.provider %}
+{% when "cackle" %}
+  {% include JB/comments-providers/cackle %}
 {% when "disqus" %}
   {% include JB/comments-providers/disqus %}
 {% when "livefyre" %}
