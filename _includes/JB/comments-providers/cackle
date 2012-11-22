@@ -1,6 +1,7 @@
 <div id="mc-container"></div>
 <script type="text/javascript">
-var mcSite = '12560';
+var mcSite = '{{ site.JB.comments.cackle.code }}';
+var mcChannel = '{{page.url}}';
 (function() {
     var mc = document.createElement('script');
     mc.type = 'text/javascript';
