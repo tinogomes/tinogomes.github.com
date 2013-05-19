@@ -4,13 +4,15 @@ title: "Resumo"
 ---
 {% include JB/setup %}
 
-**2012** - *Fevereiro* - Voltando para a Editora Abril;
+**2013** - *Maio* - [DEV in SAMPA](http://devinsampa.com.br/museu#ano2013)
 
-**2011** - *Janeiro* - Nasce a CEFGO TI; *Abril* - Lançamento do HotCabana, pelo RedeParede; *Maio* - Saída do RedeParede e início na [Concrete Solutions](http://www.concretesolutions.com.br/); *Agosto* - [Dev in Sampa 2011](http://devinsampa.com.br/museu#2011); *Outubro* - RubyConfBR 2011;
+**2012** - *Fevereiro* - Voltando para a Editora Abril; *Setembro* - [DEV in SAMPA](http://devinsampa.com.br/museu#ano2012)
 
-**2010** - *Julho* - Saída da [Abril Digital](http://www.abril.com.br) e início na [Locaweb](http://www.locaweb.com.br) no time de Cloud Computing; *Agosto* - [Dev in Sampa 2010](http://devinsampa.com.br/museu#2010); *Outubro* - RubyConfBR 2010; *Dezembro* - Saída da Locaweb e início no [Rede Parede](http://redeparede.com);
+**2011** - *Janeiro* - Nasce a CEFGO TI; *Abril* - Lançamento do HotCabana, pelo RedeParede; *Maio* - Saída do RedeParede e início na [Concrete Solutions](http://www.concretesolutions.com.br/); *Agosto* - [Dev in Sampa 2011](http://devinsampa.com.br/museu#ano2011); *Outubro* - RubyConfBR 2011;
 
-**2009** - *Maio* - Webco passou a ser parte da Abril Digital; *Setembro* - Falei sobre [Git no Rails for Kids](http://blog.egenial.com.br/?p=360), evento organizado por Carlos Eduardo da e-Genal em prol de uma instituição que cuida de crianças; *Outubro* - Rails Summit 2009; *Novembro* - Realização do [Dev in Sampa](http://devinsampa.com.br/museu#2009);
+**2010** - *Julho* - Saída da [Abril Digital](http://www.abril.com.br) e início na [Locaweb](http://www.locaweb.com.br) no time de Cloud Computing; *Agosto* - [Dev in Sampa 2010](http://devinsampa.com.br/museu#ano2010); *Outubro* - RubyConfBR 2010; *Dezembro* - Saída da Locaweb e início no [Rede Parede](http://redeparede.com);
+
+**2009** - *Maio* - Webco passou a ser parte da Abril Digital; *Setembro* - Falei sobre [Git no Rails for Kids](http://blog.egenial.com.br/?p=360), evento organizado por Carlos Eduardo da e-Genal em prol de uma instituição que cuida de crianças; *Outubro* - Rails Summit 2009; *Novembro* - Realização do [Dev in Sampa](http://devinsampa.com.br/museu#ano2009);
 
 **2008** - *Janeiro* - Fui trabalhar na Globo.com como Web Developer; *Julho* - Fui trabalhar na Webco como Web Developer, em São Paulo; *Setembro* - Nasceu minha princesinha, Camille! *Dezembro* - Mudança da família Torres e Gomes para São Paulo;
 

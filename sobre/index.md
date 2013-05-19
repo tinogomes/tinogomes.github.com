@@ -10,17 +10,21 @@ title: "Sobre mim"
 
 ## O que já fiz?
 
+### Curso
+
+* [Introdução a programação com Ruby](http://bit.ly/cursorubyabril)
+
 ### Eventos
 
-* Organizador do evento "Dev in Sampa" desde 2009
-* Palestra online "Git é seu amigo" no Rails for Kids 2009
+* Organizador do [DEV in SAMPA](http://devinsampa.com.br) desde 2009
+* Palestra online [Git é seu amigo](http://www.slideshare.net/tinorj/git-e-seu-amigo) no Rails for Kids 2009
 * Tech Talk - Selenium on Rails: Bate-papo técnico de como usar o plugin Selenium on Rails para testes em sistemas Web em 2008;
-* Palestra online "Brazilian Rails em ação" no Café com o Tom em 2008
+* Palestra online [Brazilian Rails em ação](http://www.slideshare.net/tinorj/brazilian-rails-em-ao-presentation) no Café com o Tom em 2008
 * Palestra "Brazilian Rails" no Rio on Rails em 2007
 
 ### Ruby
 
-* Gateway de Pagamento (Em sigilo);
+* Gateway de Pagamento (Akatus);
 * [Guia da Festa Infantil](http://guiadafestainfantil.com.br/) pela [D2B](http://www.d2b.com.br) (freela);
 * [RedeParede](http://redeparede.com/) e HotCabana;
 * Canais do BlogBlogs pela Abril Digital;
