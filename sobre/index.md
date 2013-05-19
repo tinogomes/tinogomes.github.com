@@ -24,7 +24,8 @@ title: "Sobre mim"
 
 ### Ruby
 
-* Gateway de Pagamento (Akatus);
+* Plataforma de publicação de conteúdo da Editora Abril;
+* Gateway de Pagamento (Akatus pela Concrete Solution);
 * [Guia da Festa Infantil](http://guiadafestainfantil.com.br/) pela [D2B](http://www.d2b.com.br) (freela);
 * [RedeParede](http://redeparede.com/) e HotCabana;
 * Canais do BlogBlogs pela Abril Digital;
