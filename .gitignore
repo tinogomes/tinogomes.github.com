@@ -5,5 +5,4 @@ Thumbs.db
 !.gitkeep
 .rbenv-version
 .rvmrc
-Gemfile
 Gemfile.lock
