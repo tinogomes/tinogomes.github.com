@@ -5,6 +5,7 @@ permalink: /:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile"]
 auto: true
 pygments: true
+excerpt_separator: ""   # Workaround for http://blog.slaks.net/2013-08-09/jekyll-tag-was-never-closed
 # lsi: true
 
 # Themes are encouraged to use these universal variables
