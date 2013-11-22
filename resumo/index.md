@@ -4,7 +4,7 @@ title: "Resumo"
 ---
 {% include JB/setup %}
 
-**2013** - *Maio* - [DEV in SAMPA](http://devinsampa.com.br/museu#ano2013)
+**2013** - *Maio* - [DEV in SAMPA](http://devinsampa.com.br/museu#ano2013); *Agosto* Mudando de volta para o Rio de Janeiro e início na [Myfreecomm](http://www.myfreecomm.com.br).
 
 **2012** - *Fevereiro* - Voltando para a Editora Abril; *Setembro* - [DEV in SAMPA](http://devinsampa.com.br/museu#ano2012)
 

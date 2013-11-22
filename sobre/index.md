@@ -16,7 +16,7 @@ title: "Sobre mim"
 
 ### Eventos
 
-* Organizador do [DEV in SAMPA](http://devinsampa.com.br) desde 2009
+* Organizador do [DEV in SAMPA](http://devinsampa.com.br) 2009-2013
 * Palestra online [Git é seu amigo](http://www.slideshare.net/tinorj/git-e-seu-amigo) no Rails for Kids 2009
 * Tech Talk - Selenium on Rails: Bate-papo técnico de como usar o plugin Selenium on Rails para testes em sistemas Web em 2008;
 * Palestra online [Brazilian Rails em ação](http://www.slideshare.net/tinorj/brazilian-rails-em-ao-presentation) no Café com o Tom em 2008
@@ -24,6 +24,7 @@ title: "Sobre mim"
 
 ### Ruby
 
+* [Myfinance](http://www.myfinance.com.br) pela [Myfreecomm](http://www.myfreecomm.com.br)
 * Plataforma de publicação de conteúdo da Editora Abril;
 * Gateway de Pagamento (Akatus pela Concrete Solution);
 * [Guia da Festa Infantil](http://guiadafestainfantil.com.br/) pela [D2B](http://www.d2b.com.br) (freela);
