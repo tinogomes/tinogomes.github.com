@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Testando seu código em várias versões de dependência"
-tags: [ruby rake bundler]
+tags:
+  - ruby
+  - rake
+  - bundler
 status: publish
 published: true
 ---

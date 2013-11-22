@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Livro Conhecendo Ruby por TaQ, gratuito mas você pode contribuir"
-tags: [ruby ebook livro]
+tags:
+  - ruby
+  - ebook
+  - livro
 status: publish
 published: true
 ---
