@@ -1,298 +1,303 @@
 /**Tino Gomes CSS Reset*/
-*{margin:0;outline:0;padding:0;} body{background-color:#FFF;color:#000;font:14px sans-serif;line-height:1.6;} h1{font-size:1.8em;} h2{font-size:1.6em;} h3{font-size:1.4em;} h4{font-size:1.3em;} h5{font-size:1.2em;} h6{font-size:1.1em;} pre,code,tt,samp,kbd{font-family:'Lucida Console','Courier new',monospace;} em,i,dfn{font-style:italic;} dfn{font-weight:bold;} blockquote{margin:1.5em;border-left:3px solid #ccc;padding-left:10px;} cite{color: #999; font-style:italic; font-weight: 300;} del{text-decoration:line-through;} dt{font-weight:bold;} dd{margin-left:1.5em;} table{width:100%;} th,thead,caption{font-weight:bold;} th,td{padding:4px;} tfoot,caption{font-style:italic;} abbr,acronym{border-bottom:1px dotted;} address{font-style:italic;} sup,sub{line-height:0;} a,a:link,a:hover,a:visited{text-decoration:underline;color:#00C;} ul,ol{list-style-position:inside;margin-left:1.5em;} ul{list-style-type:disc;} ul ul{list-style-type:square;} ul ul ul{list-style-type:circle;} ol{list-style-type:decimal;} ol ol{list-style-type:lower-latin;} ol ol ol{list-style-type:lower-roman;}
+*{margin:0;outline:0;padding:0;} body{background-color:#000;color:#CCC;font:14px sans-serif;line-height:1.6;} h1{font-size:1.8em;} h2{font-size:1.6em;} h3{font-size:1.4em;} h4{font-size:1.3em;} h5{font-size:1.2em;} h6{font-size:1.1em;} pre,code,tt,samp,kbd{font-family:'Lucida Console','Courier new',monospace;} em,i,dfn{font-style:italic;} dfn{font-weight:bold;} blockquote{margin:1.5em;border-left:3px solid #ccc;padding-left:10px;} cite{color: #999; font-style:italic; font-weight: 300;} del{text-decoration:line-through;} dt{font-weight:bold;} dd{margin-left:1.5em;} table{width:100%;} th,thead,caption{font-weight:bold;} th,td{padding:4px;} tfoot,caption{font-style:italic;} abbr,acronym{border-bottom:1px dotted;} address{font-style:italic;} sup,sub{line-height:0;} a,a:link,a:hover,a:visited{text-decoration:underline;color:#FFC;} ul,ol{list-style-position:inside;margin-left:1.5em;} ul{list-style-type:disc;} ul ul{list-style-type:square;} ul ul ul{list-style-type:circle;} ol{list-style-type:decimal;} ol ol{list-style-type:lower-latin;} ol ol ol{list-style-type:lower-roman;}
 /**End of Tino Gomes CSS Reset*/
 
 a, a:link, a:hover, a:visited {
-	color: #000;
-	font-weight: 600;
-	text-decoration: none;
+  color: #FFF;
+  font-weight: 600;
+  text-decoration: none;
 }
 
 a, a:link, a:visited {
-	border-bottom: 1px dotted black;
+  border-bottom: 1px dotted black;
 }
 
 a:hover {
-	border-bottom: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 abbr {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 #adsense {
-	clear: both;
-	display: block;
-	margin: 20px 30px;
+  clear: both;
+  display: block;
+  margin: 20px 30px;
 }
 
 #main{
-	-moz-border-radius: 6px;
-	-webkit-border-radius: 6px;
-	border-radius: 6px;
-	margin: 30px auto 140px;
-	padding: 30px 30px 0;
-	width: 960px;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  margin: 30px auto 140px;
+  padding: 30px 30px 0;
+  width: 960px;
 }
 
 #header {
-	border-bottom: 1px dotted #CCC;
-	float: left;
-	margin-bottom: 10px;
-	width: 960px;
+  border-bottom: 1px dotted #CCC;
+  float: left;
+  margin-bottom: 10px;
+  width: 960px;
 }
 
 #header hgroup {
-	float: left;
-	padding: 10px 0;
-	width: auto;
+  float: left;
+  padding: 10px 0;
+  width: auto;
 }
 
 #header h1 a {
-	border-bottom: none;
-	color: #CA1E00;
-	font-size: 60px;
-	font-weight: 600;
-	letter-spacing: -2px;
-	text-decoration: none;
-	text-rendering: optimizeLegibility;
+  border-bottom: none;
+  color: #CA1E00;
+  font-size: 60px;
+  font-weight: 600;
+  letter-spacing: -2px;
+  text-decoration: none;
+  text-rendering: optimizeLegibility;
 }
 
 #header h2 {
-	font-size: 18px;
-	font-weight: 200;
+  font-size: 18px;
+  font-weight: 200;
 }
 
 #header nav {
-	float: right;
-	padding: 10px 0;
-	width: auto;
+  float: right;
+  padding: 10px 0;
+  width: auto;
 }
 
 #header nav ul {
-	height: 50px;
-	margin-bottom: 2px;
+  height: 50px;
+  margin-bottom: 2px;
 }
 
 #header nav li {
-	display: inline;
-	float: left;
-	position: relative;
-	text-align: center;
-	width: auto;
+  display: inline;
+  float: left;
+  position: relative;
+  text-align: center;
+  width: auto;
 }
 
 #header nav li a {
-	border-bottom: none;
-	display: block;
-	font-size: 18px;
-	font-weight: 400;
-	padding: 15px;
+  border-bottom: none;
+  display: block;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 15px;
 }
 
 article header {
-	border-bottom: none;
-	margin-top: 10px;
+  border-bottom: none;
+  margin-top: 10px;
 }
 
 article header h1 {
-	clear:both;
+  clear:both;
 }
 
 article header h1, article header h1 a {
-	font-size: 28px;
-	font-weight: normal;
-	line-height: 32px;
-	margin: 30px 0 10px 0;
+  font-size: 28px;
+  font-weight: normal;
+  line-height: 32px;
+  margin: 30px 0 10px 0;
 }
 
 article aside {
-	height: 1.2em;
-	line-height: 1.2em;
+  height: 1.2em;
+  line-height: 1.2em;
 }
 
 article aside * {
-	display: inline;
+  display: inline;
 }
 
 article aside dl, dt, dd {
-	-webkit-margin-start: 0;
+  -webkit-margin-start: 0;
 }
 
 article aside dt {
-	font-size: 12px;
+  font-size: 12px;
 }
 
 article aside dd {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 article aside nav {
-	float: right;
+  float: right;
 }
 
 article h1 {
-	font-size: 26px;
-	font-weight: normal;
-	margin: 25px 0 10px 0;
+  font-size: 26px;
+  font-weight: normal;
+  margin: 25px 0 10px 0;
 }
 
 article h2 {
-	font-size: 24px;
-	font-weight: normal;
-	margin: 25px 0 10px 0;
+  font-size: 24px;
+  font-weight: normal;
+  margin: 25px 0 10px 0;
 }
 
 article h3, article h4 {
-	font-size: 20px;
-	font-weight: normal;
-	margin: 15px 0 10px 0;
+  font-size: 20px;
+  font-weight: normal;
+  margin: 15px 0 10px 0;
 }
 
 article p {
-	margin: 14px 0;
+  margin: 14px 0;
 }
 
 article img {
-	clear: both;
-	display: block;
-	vertical-align: center;
+  border: 2px solid #999;
+  clear: both;
+  display: block;
+  padding: 2px;
+  vertical-align: center;
+  max-width: 100%;
 }
 
 article ol {
-	list-style: decimal;
-	margin: 0 0 0 25px;
+  list-style: decimal;
+  margin: 0 0 0 25px;
 }
 
 article ul {
-	list-style: circle;
-	margin: 0 0 0 25px;
+  list-style: circle;
+  margin: 0 0 0 25px;
 }
 
 article li {
-	display: list-item;
+  display: list-item;
 }
 
 .posts .title {
-	font-size: 24px;
-	font-weight: normal;
-	margin: 15px 0 0;
+  font-size: 24px;
+  font-weight: normal;
+  margin: 15px 0 0;
 }
 
 .posts .title span {
-	color: #666;
-	font-size: 0.5em;
-	vertical-align: top;
+  color: #666;
+  font-size: 0.5em;
+  vertical-align: top;
 }
 
 .posts .link {
-	color: #666;
-	font-size: 10px;
-	font-weight: normal;
+  color: #666;
+  font-size: 10px;
+  font-weight: normal;
 }
 
 .posts .link a {
-	border-bottom: 0;
+  border-bottom: 0;
 }
 
 .posts .link a:hover {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 pre {
-	background-color: #eee;
-	max-width: 960px;
-	overflow: auto;
-	padding: 10px 10px;
-	width: 960px;
+  background-color: #eee;
+  color: #333;
+  max-width: 960px;
+  overflow: auto;
+  padding: 10px 10px;
+  width: 960px;
 }
 
 p code {
-	background-color: #fff;
-	padding: 0;
+  color: #fff;
+  font-weight: bold;
+  padding: 0;
 }
 
 #footer {
-	border-top: 1px dotted #CCC;
-	clear: both;
-	padding: 30px 0 0;
-	width: 960px;
+  border-top: 1px dotted #CCC;
+  clear: both;
+  padding: 30px 0 0;
+  width: 960px;
 }
 
 #footer ul {
-	height: 35px;
-	margin: 10px 0 2px;
+  height: 35px;
+  margin: 10px 0 2px;
 }
 
 #footer li {
-	display: inline;
-	float: left;
-	height: 35px;
-	line-height: 35px;
-	margin-right: 5px;
-	position: relative;
-	text-align: center;
-	width: auto;
+  display: inline;
+  float: left;
+  height: 35px;
+  line-height: 35px;
+  margin-right: 5px;
+  position: relative;
+  text-align: center;
+  width: auto;
 }
 
 .icon {
-	width: 32px;
-	height: 32px;
+  width: 32px;
+  height: 32px;
 }
 
 .icon a, .icon a:link, .icon a:visited {
-	border: 0;
-	color: transparent;
-	display: inline-block;
-	height: 35px;
-	overflow: hidden;
-	padding-left: 10px;
-	width: 35px;
+  border: 0;
+  color: transparent;
+  display: inline-block;
+  height: 35px;
+  overflow: hidden;
+  padding-left: 10px;
+  width: 35px;
 }
 
 .delicious a {
-	background:url('/assets/themes/simplest/images/delicious.png') no-repeat;
+  background:url('/assets/themes/simplest/images/delicious.png') no-repeat;
 }
 
 .github a {
-	background:url('/assets/themes/simplest/images/github.png') no-repeat;
+  background:url('/assets/themes/simplest/images/github.png') no-repeat;
 }
 
 .linkedin a {
-	background:url('/assets/themes/simplest/images/linkedin.png') no-repeat;
+  background:url('/assets/themes/simplest/images/linkedin.png') no-repeat;
 }
 
 .rss a {
-	background:url('/assets/themes/simplest/images/rss.png') no-repeat;
+  background:url('/assets/themes/simplest/images/rss.png') no-repeat;
 }
 
 .twitter a {
-	background:url('/assets/themes/simplest/images/twitter.png') no-repeat;
+  background:url('/assets/themes/simplest/images/twitter.png') no-repeat;
 }
 
 .paginate {
-	border-top: none;
-	color: #666;
-	margin: 5px 10px 60px;
+  border-top: none;
+  color: #666;
+  margin: 5px 10px 60px;
 }
 
 .paginate .next {
-	float: left;
-	margin-right: 10px;
+  float: left;
+  margin-right: 10px;
 }
 
 .paginate .prev {
-	float: right;
-	margin-left: 10px;
-	margin-right: 10px;
+  float: right;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .paginate a {
-	border-color: #666;
-	color: #666;
+  border-color: #666;
+  color: #666;
 }
 
 .posts li a span {
-	display: inline-block;
-	width: 90px;
+  display: inline-block;
+  width: 90px;
 }
