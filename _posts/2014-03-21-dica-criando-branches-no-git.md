@@ -8,6 +8,7 @@ tags:
   - bash
   - git
   - git-branch
+type: post
 status: publish
 published: true
 ---
