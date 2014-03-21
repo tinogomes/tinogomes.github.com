@@ -24,7 +24,6 @@ Agora é só:
 
 Segue abaixo minhas novas funções bash:
 
-{% highlight shell linenos %}
     function fix-branch() {
         local new_branch_name=$(echo "$*" | tr " " _)
         git checkout -b fix/$new_branch_name
@@ -34,4 +33,3 @@ Segue abaixo minhas novas funções bash:
         local new_branch_name=$(echo "$*" | tr " " _)
         git checkout -b feature/$new_branch_name
     }
-{% endhighlight %}
