@@ -17,4 +17,4 @@ meta:
 ---
 Hoje falei em um Tech Talk sobre Selenium on Rails aqui na WebCo, então estou disponibilizando a apresentação.
 
-[selenum-on-rails](http://tinogomes.files.wordpress.com/2008/08/selenum-on-rails.pdf)
+[selenum-on-rails](/public/selenum-on-rails.pdf)
