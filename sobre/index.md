@@ -12,7 +12,8 @@ title: "Sobre mim"
 
 ### Curso
 
-* [Introdução a programação com Ruby](http://bit.ly/cursorubyabril)
+* [Introdução a programação com Ruby](https://github.com/abril/ruby-course)
+* [Git](http://bit.ly/abrilcursogit)
 
 ### Eventos
 
