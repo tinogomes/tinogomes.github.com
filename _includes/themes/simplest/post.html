@@ -1,16 +1,4 @@
 <header>
-	<nav class="paginate">
-		{% if page.next %}
-		<div class="next">
-			<a class="internal" rel="next"  href="{{ page.next.url }}" title="View {{ page.next.title }}">&laquo; {{ page.next.title }}</a>
-		</div>
-		{% endif %}
-		{% if page.previous %}
-		<div class="prev">
-			<a class="internal" rel="prev"  href="{{ page.previous.url }}" title="View {{ page.previous.title }}">{{ page.previous.title }} &raquo;</a>
-		</div>
-		{% endif %}
-	</nav>
 	<h1>{{ page.title }}</h1>
 </header>
 
@@ -25,13 +13,28 @@
 			{% endfor %}
 		</dd>
 	</dl>
-  <nav class="share">
-  	<div class="twitter-tweet"><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="{{ site.author.twitter }}" data-lang="pt" data-url="{{ page.url }}">Tweet</a></div>
-  </nav>
+
+	<nav class="paginate">
+		{% if page.next %}
+		<div class="next">
+			<a class="internal" rel="next"  href="{{ page.next.url }}" title="View {{ page.next.title }}">&laquo; {{ page.next.title }}</a>
+		</div>
+		{% endif %}
+		{% if page.previous %}
+		<div class="prev">
+			<a class="internal" rel="prev"  href="{{ page.previous.url }}" title="View {{ page.previous.title }}">{{ page.previous.title }} &raquo;</a>
+		</div>
+		{% endif %}
+	</nav>
+
 </aside>
 
 <div class="content">
 	{{ content }}
+
+	<nav class="share">
+		<div class="twitter-tweet"><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="{{ site.author.twitter }}" data-lang="pt" data-url="{{ page.url }}">Tweet</a></div>
+	</nav>
 
 	<div id="adsense">
 		<script type="text/javascript"><!--
