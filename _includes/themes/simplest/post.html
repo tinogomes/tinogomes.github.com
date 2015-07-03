@@ -15,18 +15,19 @@
 	</dl>
 
 	<nav class="paginate">
-		{% if page.next %}
-		<div class="next">
-			<a class="internal" rel="next"  href="{{ page.next.url }}" title="View {{ page.next.title }}">&laquo; {{ page.next.title }}</a>
-		</div>
-		{% endif %}
-		{% if page.previous %}
-		<div class="prev">
-			<a class="internal" rel="prev"  href="{{ page.previous.url }}" title="View {{ page.previous.title }}">{{ page.previous.title }} &raquo;</a>
-		</div>
-		{% endif %}
+		<ul>
+			{% if page.next %}
+			<li class="next">
+				<a class="internal" rel="next"  href="{{ page.next.url }}" title="View {{ page.next.title }}">&laquo; {{ page.next.title }}</a>
+			</li>
+			{% endif %}
+			{% if page.previous %}
+			<li class="prev">
+				<a class="internal" rel="prev"  href="{{ page.previous.url }}" title="View {{ page.previous.title }}">{{ page.previous.title }} &raquo;</a>
+			</li>
+			{% endif %}
+		</ul>
 	</nav>
-
 </aside>
 
 <div class="content">

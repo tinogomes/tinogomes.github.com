@@ -68,6 +68,14 @@ abbr {
   font-weight: 200;
 }
 
+nav > ul {
+  list-style-type: none;
+}
+
+nav.horizontal > li {
+  display: inline;
+}
+
 #header nav {
   float: right;
   padding: 10px 0;
@@ -80,7 +88,6 @@ abbr {
 }
 
 #header nav li {
-  display: inline;
   float: left;
   position: relative;
   text-align: center;
@@ -162,6 +169,10 @@ article p {
   margin: 14px 0;
 }
 
+/*article p:first-child: {
+  clear: both;
+}
+*/
 article img {
   border: 2px solid #999;
   clear: both;
@@ -171,17 +182,20 @@ article img {
   max-width: 100%;
 }
 
-article ol {
+article > ol, article p > ol {
   list-style: decimal;
   margin: 0 0 0 25px;
 }
 
-article ul {
+article > ul, article p > ul {
   list-style: circle;
   margin: 0 0 0 25px;
 }
 
-article li {
+article > ul > li,
+article > ol > li,
+article p > ul > li,
+article p > ol > li {
   display: list-item;
 }
 
@@ -287,6 +301,7 @@ p code {
   border-top: none;
   color: #666;
   margin: 5px 10px 60px;
+  width: 100%;
 }
 
 .paginate .next {
@@ -298,6 +313,7 @@ p code {
   float: right;
   margin-left: 10px;
   margin-right: 10px;
+  text-align: right;
 }
 
 .paginate a {
