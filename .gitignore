@@ -9,3 +9,4 @@ _site
 _theme_packages
 Gemfile.lock
 Thumbs.db
+jekyll-bootstrap-master

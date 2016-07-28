@@ -6,7 +6,8 @@ markdown: kramdown
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile"]
 highlighter: rouge
-excerpt_separator: ""   # Workaround for http://blog.slaks.net/2013-08-09/jekyll-tag-was-never-closed
+# Workaround for http://blog.slaks.net/2013-08-09/jekyll-tag-was-never-closed
+excerpt_separator: ""
 # lsi: true
 
 # Themes are encouraged to use these universal variables
@@ -34,10 +35,12 @@ author :
 #
 production_url : http://blog.tinogomes.com
 
+# gems: ["jekyll-sitemap"]
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
-  version : 0.1.0
+  version : 0.3.0
 
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
@@ -89,7 +92,18 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : blogtinogomes
+      short_name : tinogomes
+    livefyre :
+      site_id : 123
+    intensedebate :
+      account : 123abc
+    facebook :
+      appid : 123
+      num_posts: 5
+      width: 580
+      colorscheme: light
+    duoshuo :
+      short_name : jekyllbootstrap
 
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
@@ -97,8 +111,17 @@ JB :
   #
   analytics :
     provider : google
+    gauges :
+        site_id : 'SITE ID'
     google :
         tracking_id : 'UA-8388807-2'
+    getclicky :
+      site_id :
+    mixpanel :
+        token : '136d32b153e3d3b18d02de8538c84d6a'
+    piwik :
+        baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
+        idsite : '1'                   # the id of the site on Piwik
 
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
@@ -118,3 +141,4 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+
