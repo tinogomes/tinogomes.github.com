@@ -23,18 +23,6 @@ title: "Sobre mim"
 * Palestra online [Brazilian Rails em ação](http://www.slideshare.net/tinorj/brazilian-rails-em-ao-presentation) no Café com o Tom em 2008
 * Palestra "Brazilian Rails" no Rio on Rails em 2007
 
-## Python
-
-* Diversas APIs no Hotel Urbano
-
-### Scala
-
-* Sistema de gestão de publicação de páginas especiais do Hotel Urbano.
-
-### PHP
-
-* Site e ferramentas do Hotel Urbano
-
 ### Ruby
 
 * Administrador do [Fitoo](http://fitoo.com.br);
@@ -56,6 +44,18 @@ title: "Sobre mim"
 * GloboEsporte.com no Orkut pela [Globo.com](http://globo.com/);
 * [Gem Brazilian Rails](https://rubygems.org/gems/brazilian-rails/): Gem com diversas funcionalidades, tais como: Tradução das mensagens de erro, pluralização em português, classe Moeda e etc;
 * Controle de Licença de Softwares e Gestão de Locação/Vendas pela Ancar;
+
+### Python
+
+* Diversas APIs no Hotel Urbano
+
+### Scala
+
+* Sistema de gestão de publicação de páginas especiais do Hotel Urbano.
+
+### PHP
+
+* Site e ferramentas do Hotel Urbano
 
 ### Java
 
