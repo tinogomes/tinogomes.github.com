@@ -23,9 +23,23 @@ title: "Sobre mim"
 * Palestra online [Brazilian Rails em ação](http://www.slideshare.net/tinorj/brazilian-rails-em-ao-presentation) no Café com o Tom em 2008
 * Palestra "Brazilian Rails" no Rio on Rails em 2007
 
+## Python
+
+* Diversas APIs no Hotel Urbano
+
+### Scala
+
+* Sistema de gestão de publicação de páginas especiais do Hotel Urbano.
+
+### PHP
+
+* Site e ferramentas do Hotel Urbano
+
 ### Ruby
 
-* [Myfinance](http://www.myfinance.com.br) pela [Myfreecomm](http://www.myfreecomm.com.br)
+* Administrador do [Fitoo](http://fitoo.com.br);
+* Sistemas para publicação da Home do Hotel Urbano;
+* [Myfinance](http://www.myfinance.com.br) pela [Myfreecomm](http://www.myfreecomm.com.br);
 * Plataforma de publicação de conteúdo da Editora Abril;
 * Gateway de Pagamento (Akatus pela Concrete Solution);
 * [Guia da Festa Infantil](http://guiadafestainfantil.com.br/) pela [D2B](http://www.d2b.com.br) (freela);
@@ -45,6 +59,7 @@ title: "Sobre mim"
 
 ### Java
 
+* [appFitoo](http://facebook.com.br/appfitoo): Aplicativo Android.
 * Ancar2Go: Business Intelligence com ênfase em análise de resultado sobre plantas baixas;
 * Mapper: foi um sub-projeto do Ancar2Go, com o objetivo de importar as plantas desenvolvidas em AutoCAD, com integração de informações com sistema de faturamento;
 
