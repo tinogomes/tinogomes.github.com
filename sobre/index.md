@@ -35,6 +35,7 @@ title: "Sobre mim"
 * Canais do BlogBlogs pela Abril Digital;
 * Otimizações no site da [JMC](http://www.jmc.com.br/) pela D2B (freela);
 * Hotsite de concurso cultural pela D2B (freela);
+* Plataforma de inscrições para o DEV in SAMPA;
 * [Site do Dev in Sampa](http://www.devinsampa.com.br/);
 * Plataforma de CMS pela 14bits (freela);
 * Plataforma de CMS e site da VejaSP pela Abril Digital;
