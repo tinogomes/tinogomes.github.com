@@ -6,11 +6,8 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
-	{% if page.title %}
-		<title>{{ page.title }} - {{ site.title }}</title>
-	{% else %}
-		<title>{{ site.title }}</title>
-	{% endif %}
+	{% if page.title %}<title>{{ page.title }} - {{ site.title }}</title>{% else %}<title>{{ site.title }}</title>{% endif %}
+	{% if page.description != "" %}<meta name="description" content="{{ page.description }}. {{site.title}}">{% else %}<meta name="description" content="{{ page.title }}. {{site.title}}">{% endif %}
 	<meta name="author" content="{{ site.author.name }}">
 	<meta name="google-site-verification" content="{{ site.author.google_site_verification }}" />
 	<link href='{{ ASSET_PATH }}/css/default.css' rel="stylesheet" media="all">
