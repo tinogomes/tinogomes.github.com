@@ -3,7 +3,9 @@ layout: post
 title: "Criando gemset e arquivos de carregamento do RVM"
 description: ""
 category: ""
-tags: [ruby]
+tags:
+  - ruby
+  - rvm
 status: publish
 published: true
 ---
