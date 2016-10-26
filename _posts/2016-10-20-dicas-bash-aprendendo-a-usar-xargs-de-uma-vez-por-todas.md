@@ -35,7 +35,7 @@ Argumentos | Descrição
 Exemplos:
 
 {% highlight Bash %}
-    $ seq -s ' item\n' 6 | xargs
+    $ seq -s ' item\n' 3 | xargs
     1 item 2 item 3 item
 
     $ seq -s ' item\n' 3 | xargs -0
