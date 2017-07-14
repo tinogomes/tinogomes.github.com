@@ -4,9 +4,11 @@ title: "Resumo"
 ---
 {% include JB/setup %}
 
-**2016** - *Julho* - Saída do Hotel Urbano;
+**2017** - *Julho* - Saí do Fitoo;
 
-**2015** - *Março* - Nasceu a caçula da Família, Lorena; *Maio* Saída do Hotel Urbano e Início no [Gaveteiro](http://gaveteiro.com.br); *Novembro* - Saída do Gaveteiro e voltei para o Hotel Urbano;
+**2016** - *Julho* - Saída do Hotel Urbano e voltei a trabalhar para o Gaveteiro;
+
+**2015** - *Março* - Nasceu a caçula da Família, Lorena; *Maio* Saída do Hotel Urbano e Início no [Gaveteiro](http://gaveteiro.com.br); *Julho* - Cofundador do [Fitoo](http://www.appfitoo.com.br); *Novembro* - Saída do Gaveteiro e voltei para o Hotel Urbano;
 
 **2014** - Saída da Myfreecomm e Início no [Hotel Urbano](http://hotelurbano.com);
 
