@@ -4,7 +4,7 @@ title: "Resumo"
 ---
 {% include JB/setup %}
 
-**2017** - *Julho* - Saí do Fitoo;
+**2017** - *Julho* - Saída do Fitoo;
 
 **2016** - *Julho* - Saída do Hotel Urbano e voltei a trabalhar para o Gaveteiro;
 
@@ -12,7 +12,7 @@ title: "Resumo"
 
 **2014** - Saída da Myfreecomm e Início no [Hotel Urbano](http://hotelurbano.com);
 
-**2013** - *Maio* - Último [DEV in SAMPA](http://devinsampa.com.br/museu#ano2013) ¯\_(ツ)_/¯; *Agosto* Mudando de volta para o Rio de Janeiro e início na [Myfreecomm](http://www.myfreecomm.com.br).
+**2013** - *Maio* - Último [DEV in SAMPA](http://devinsampa.com.br/museu#ano2013) ¯\\_(ツ)_/¯; *Agosto* Mudando de volta para o Rio de Janeiro e início na [Myfreecomm](http://www.myfreecomm.com.br).
 
 **2012** - *Fevereiro* - Voltando para a Editora Abril; *Setembro* - [DEV in SAMPA](http://devinsampa.com.br/museu#ano2012)
 

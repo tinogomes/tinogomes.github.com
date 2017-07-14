@@ -25,13 +25,15 @@ title: "Sobre mim"
 
 ### Ruby
 
-* Administrador do [Fitoo](http://fitoo.com.br);
+* Site de gestão de vendas e pedidos do [Gaveteiro](http://www.gaveteiro.com.br);
+* Administrador do [Fitoo](http://www.appfitoo.com.br);
 * Sistemas para publicação da Home do Hotel Urbano;
 * [Myfinance](http://www.myfinance.com.br) pela [Myfreecomm](http://www.myfreecomm.com.br);
-* Plataforma de publicação de conteúdo da Editora Abril;
+* Plataforma de publicação de conteúdo (Alexandria) da Editora Abril;
 * Gateway de Pagamento (Akatus pela Concrete Solution);
-* [Guia da Festa Infantil](http://guiadafestainfantil.com.br/) pela [D2B](http://www.d2b.com.br) (freela);
-* [RedeParede](http://redeparede.com/) e HotCabana;
+* Catalogo de Serviços voltados ao segmento de Festas Infantis pela [D2B](http://www.d2b.com.br) (freela);
+* Classificados de anúncios pela RedeParede;
+* Catalogo de serviços pela RedeParede;
 * Canais do BlogBlogs pela Abril Digital;
 * Otimizações no site da [JMC](http://www.jmc.com.br/) pela D2B (freela);
 * Hotsite de concurso cultural pela D2B (freela);
@@ -40,8 +42,8 @@ title: "Sobre mim"
 * Plataforma de CMS pela 14bits (freela);
 * Plataforma de CMS e site da VejaSP pela Abril Digital;
 * Brasigo pela Abril Digital/Webco;
-* BlogBlogs pela Abril Digital/Webco;
-* [GloboAmazonia.vc](http://www.globoamazonia.com/) no Orkut pela Globo.com;
+* BlogBlogs (Indexador de Blogs Brasileiro) pela Abril Digital/Webco;
+* Aplicativo de denúncias de desmatamento e queimadas pela Globo.com;
 * GloboEsporte.com no Orkut pela [Globo.com](http://globo.com/);
 * [Gem Brazilian Rails](https://rubygems.org/gems/brazilian-rails/): Gem com diversas funcionalidades, tais como: Tradução das mensagens de erro, pluralização em português, classe Moeda e etc;
 * Controle de Licença de Softwares e Gestão de Locação/Vendas pela Ancar;
@@ -66,8 +68,8 @@ title: "Sobre mim"
 
 ### Delphi
 
-* Sistemas Gerenciais em: Administração de Shopping Center, Administração Hospitalar, Cobrança de Associação, Provedor de Internet, Patrimonial (projeto final de faculdade);
+* Sistemas Gerenciais em: Administração de Shopping Center, Administração Hospitalar, Cobrança de Associação, Provedor de Internet, Patrimonial (projeto TCC);
 
 ### Clipper
 
-* Sistemas Gerenciais em: Administração Hospitalar, Gestão Financeira, Controle de Manutenção de Equipamentos;
+* Sistemas Gerenciais em: Administração Hospitalar, Gestão Financeira, Controle de Manutenção de Equipamentos; Gestão de Cobrança;
