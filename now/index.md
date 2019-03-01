@@ -14,11 +14,11 @@ Currently living in Rio de Janeiro, Brazil. Spending all my time on these:
 * Freelancing whenever possible.
 * Writing posts to this blog (Trying).
 * [Improving English][duolingo].
-* Studying, Reading, listening to podcasts and resting as much as I can
+* Studying, Reading, listening to podcasts and resting as much as I can.
 
 As general rule, I’m pretty overloaded with all of these things and not saying “no” enough as it is. Please understand if I’m slow to return an email or otherwise drop the ball.
 
-This update was July 28th, 2017.
+This update was March 1st, 2019.
 
 [now]: http://nownownow.com/about
 [derek]: https://sivers.org/now

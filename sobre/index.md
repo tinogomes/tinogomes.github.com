@@ -12,20 +12,21 @@ title: "Sobre mim"
 
 ### Curso
 
-* [Introdução a programação com Ruby](https://github.com/abril/ruby-course)
-* [Git](http://bit.ly/abrilcursogit)
+* [Introdução a programação com Ruby](https://github.com/abril/ruby-course);
+* [Git](http://bit.ly/abrilcursogit);
 
 ### Eventos
 
-* Organizador do [DEV in SAMPA](http://devinsampa.com.br) 2009-2013
-* Palestra online [Git é seu amigo](http://www.slideshare.net/tinorj/git-e-seu-amigo) no Rails for Kids 2009
+* Organizador do [DEV in SAMPA](http://devinsampa.com.br) 2009-2013;
+* Palestra online [Git é seu amigo](http://www.slideshare.net/tinorj/git-e-seu-amigo) no Rails for Kids 2009;
 * Tech Talk - Selenium on Rails: Bate-papo técnico de como usar o plugin Selenium on Rails para testes em sistemas Web em 2008;
-* Palestra online [Brazilian Rails em ação](http://www.slideshare.net/tinorj/brazilian-rails-em-ao-presentation) no Café com o Tom em 2008
-* Palestra "Brazilian Rails" no Rio on Rails em 2007
+* Palestra online [Brazilian Rails em ação](http://www.slideshare.net/tinorj/brazilian-rails-em-ao-presentation) no Café com o Tom em 2008;
+* Palestra "Brazilian Rails" no Rio on Rails em 2007;
 
 ### Ruby
 
-* Site de gestão de vendas e pedidos do [Gaveteiro](http://www.gaveteiro.com.br);
+* Implementado método `Hash#compact` e `Hash#compact!` no ActiveSupport do Rails, que depois foi migrado para a própria linguagem Ruby. [Veja toda discussão do _Pull Request_ até a aceitação do mesmo](https://github.com/rails/rails/pull/13632);
+* Site de gestão de vendas e APIs do [Gaveteiro](http://www.gaveteiro.com.br);
 * Administrador do [Fitoo](http://www.appfitoo.com.br);
 * Sistemas para publicação da Home do Hotel Urbano;
 * [Myfinance](http://www.myfinance.com.br) pela [Myfreecomm](http://www.myfreecomm.com.br);
@@ -50,19 +51,19 @@ title: "Sobre mim"
 
 ### Python
 
-* Diversas APIs no Hotel Urbano
+* Diversas APIs no Hotel Urbano;
 
 ### Scala
 
-* Sistema de gestão de publicação de páginas especiais do Hotel Urbano.
+* Sistema de gestão de publicação de páginas especiais do Hotel Urbano;
 
 ### PHP
 
-* Site e ferramentas do Hotel Urbano
+* Site e ferramentas do Hotel Urbano;
 
 ### Java
 
-* [appFitoo](http://facebook.com.br/appfitoo): Aplicativo Android.
+* [appFitoo](http://facebook.com.br/appfitoo): Aplicativo Android;
 * Ancar2Go: Business Intelligence com ênfase em análise de resultado sobre plantas baixas;
 * Mapper: foi um sub-projeto do Ancar2Go, com o objetivo de importar as plantas desenvolvidas em AutoCAD, com integração de informações com sistema de faturamento;
 
