@@ -30,4 +30,4 @@ meta:
 * Web Developer
 * XPath Checker
 
-<a title="Firefox Extensions" href="http://tinogomes.files.wordpress.com/2008/01/extensions.png" target="_blank"><img src="http://tinogomes.files.wordpress.com/2008/01/extensions.png" alt="Firefox Extensions" /></a>
+<a title="Firefox Extensions" href="/images/posts/extensions.png" target="_blank"><img src="/images/posts/extensions.png" alt="Firefox Extensions" /></a>

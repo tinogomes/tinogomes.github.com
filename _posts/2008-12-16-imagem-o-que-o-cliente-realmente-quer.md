@@ -13,4 +13,4 @@ meta:
 ---
 A imagem abaixo, apesar de uma sátira, descreve o que acontece em muitos projetos de software.
 
-<a href="http://tinogomes.files.wordpress.com/2008/12/software.jpg"><img class="aligncenter size-full wp-image-176" title="software" src="http://tinogomes.files.wordpress.com/2008/12/software.jpg" alt="software" width="450" height="337" /></a>
+<a href="/images/posts/software.jpg"><img class="aligncenter size-full wp-image-176" title="software" src="/images/posts/software.jpg" alt="software" width="450" height="337" /></a>

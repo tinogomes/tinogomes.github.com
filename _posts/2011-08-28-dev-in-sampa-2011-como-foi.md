@@ -15,7 +15,7 @@ meta:
   _wpas_done_twitter: "1"
   _wpas_skip_fb: "1"
 ---
-<a href="http://devinsampa.com.br"><img class="aligncenter" title="Logo do Dev in Sampa" src="http://devinsampa.com.br/index_files/logo_dev.jpg" alt="" width="388" height="135" /></a>
+<a href="http://devinsampa.com.br">DEV IN SAMPA</a>
 
 Mais um Dev in Sampa passou, e como de costume foi demais! Todos nos dão os parabéns pela organização e ficamos muitos lisonjeados pelas congratulações, mas realmente, o evento não poderia acontecer aqui segue nossos agradecimentos...
 

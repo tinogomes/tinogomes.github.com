@@ -13,7 +13,7 @@ meta:
 ---
 É pessoal, demorou mas saiu a nova cara do blogblogs:
 
-[Nova cara do BlogBlogs](http://tinogomes.files.wordpress.com/2008/12/nova-cara-do-blogblogs.png)
+[ ![Nova cara do BlogBlogs](/images/posts/nova-cara-do-blogblogs.png) ](/images/posts/nova-cara-do-blogblogs.png)
 
 Parabéns a equipe do BlogBlogs!
 

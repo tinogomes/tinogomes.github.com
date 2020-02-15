@@ -25,10 +25,10 @@ De várias maneiras, mas principalmente fazendo parte desta nova aventura e nos 
 
 Antes do lançamento:
 
-[ [!Brasigo antes do lançamento](http://tinogomes.files.wordpress.com/2008/07/brasigo-manut.jpg) ](http://tinogomes.files.wordpress.com/2008/07/brasigo-manut.jpg)
+[ ![Brasigo antes do lançamento](/images/posts/brasigo-manut.jpg) ](/images/posts/brasigo-manut.jpg)
 
 Agora, acesse: <http://www.brasigo.com.br/">
 
-[ [!Nova cara do Brasigo](http://tinogomes.files.wordpress.com/2008/07/brasigonovo.jpg) ](http://tinogomes.files.wordpress.com/2008/07/brasigonovo.jpg)
+[ ![Nova cara do Brasigo](/images/posts/brasigonovo.jpg) ](/images/posts/brasigonovo.jpg)
 
 É nóis equipe Webco!!!

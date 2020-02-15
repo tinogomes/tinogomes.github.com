@@ -23,6 +23,6 @@ Se você mudar o seu país para Estónia por exêmplo, você têm acesso a nova 
 
 Você pode instalar procurando por "futebol" no diretório de aplicativos que vai aparecer no seu Orkut ou diretamente pela URL [http://www.orkut.com/AppInfo.aspx?appUrl=http%3A%2F%2Fgadget.orkut.globo.com%2Ffutebol.xml&amp;objs=&amp;sn=](http://www.orkut.com/AppInfo.aspx?appUrl=http%3A%2F%2Fgadget.orkut.globo.com%2Ffutebol.xml&objs=&sn=)
 
-<img src="http://tinogomes.files.wordpress.com/2008/06/orkut1.png" />
+<img src="/images/posts/orkut1.png" />
 
 Neste aplicativo usamos o Rails como backend, como serviço de dados de jogos e message wall (twitter). Em breve, daremos um feedback com os números!

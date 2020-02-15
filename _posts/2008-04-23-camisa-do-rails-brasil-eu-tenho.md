@@ -14,6 +14,6 @@ meta:
 ---
 Eh, infelizmente não pude comparecer ao FISL 2008, mas nem por causa disso deixei de arrumar uma camisa pra mim!
 
-<a href="http://tinogomes.files.wordpress.com/2008/04/caimsa_rails_brasil.jpg">
-	<img class="alignnone size-full wp-image-31" src="http://tinogomes.files.wordpress.com/2008/04/caimsa_rails_brasil.jpg" alt="" width="400" height="600" />
+<a href="/images/posts/caimsa_rails_brasil.jpg">
+	<img class="alignnone size-full wp-image-31" src="/images/posts/caimsa_rails_brasil.jpg" alt="" width="400" height="600" />
 </a>

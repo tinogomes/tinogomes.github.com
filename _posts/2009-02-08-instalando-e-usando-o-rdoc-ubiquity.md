@@ -19,7 +19,7 @@ Como instalar?
 
 1. Precisa ter [instalado o Ubiquity para Firefox](http://www.open2tech.com/2008/08/30/ubiquity-converse-com-seu-firefox/);
 1. Acessar o site do [ubiquity-rdoc](http://projects.talleye.com/ubiquity-rdoc/);
-	[!Página do RDoc-Ubiquity](http://tinogomes.files.wordpress.com/2009/01/picture-5.png)
+	![Página do RDoc-Ubiquity](/images/posts/picture-5.png)
 1. Se você notar, o Ubiquity vai pedir uma confirmação para assinar a extensão;
 1. Irá abrir a tela de confirmação para "assinatura" da extensão;
 	Lembre-se de marcar a opção de auto-atualização (auto-update);

@@ -16,6 +16,6 @@ meta:
 ---
 Olha que coisa bonita subiu para produção do Brasigo, passou batido por todos nós aqui...
 
-<a href="http://tinogomes.files.wordpress.com/2008/09/brasigo-lorem-ipsim.png"><img class="alignnone size-full wp-image-137" src="http://tinogomes.files.wordpress.com/2008/09/picture-2.png" alt="" width="449" height="176" /></a>
+<a href="/images/posts/brasigo-lorem-ipsim.png"><img class="alignnone size-full wp-image-137" src="/images/posts/picture-2.png" alt="" width="449" height="176" /></a>
 
 Versão Beta é pra vida! :)

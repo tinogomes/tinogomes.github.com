@@ -20,12 +20,12 @@ Quando ainda estávamos na Webco, meu MacBook foi configurado para pegar as atua
 
 1. Abrir o **Property List Editor**
 
-	[!Property List Editor](http://tinogomes.files.wordpress.com/2009/09/property-list-editor-1-open.png)
+	[ ![Property List Editor](/images/posts/property-list-editor-1-open.png) ](/images/posts/property-list-editor-1-open.png)
 
 1. Abrir o arquivo */Library/Preferences/com.apple.SoftwareUpdate.plist*
 
-	[!Property List Editor - Openning a file](http://tinogomes.files.wordpress.com/2009/09/property-list-editor-3-open-a-file.png)
+	[ ![Property List Editor - Openning a file](/images/posts/property-list-editor-3-open-a-file.png) ](/images/posts/property-list-editor-3-open-a-file.png)
 
 1. Editar o attributo <tt>CatalogURL</tt> com o valor "<tt>http://swscan.apple.com/content/catalogs/index.sucatalog<!--/t-->"</tt>
 
-	[!Property List Editor - Editing CatalogURL attribute](http://tinogomes.files.wordpress.com/2009/09/property-list-editor-4-edit-catalogurl-attribute.png)
+	[ ![Property List Editor - Editing CatalogURL attribute](/images/posts/property-list-editor-4-edit-catalogurl-attribute.png) ](/images/posts/property-list-editor-4-edit-catalogurl-attribute.png)
