@@ -11,6 +11,7 @@ This is my [now page][now], inspired by [Derek Sievers][derek].
 Currently living in Rio de Janeiro, Brazil. Spending all my time on these:
 
 * Software Development at [~~Gaveteiro.com.br~~ NEI.com.br][nei].
+* Contributing with [open source][github].
 * Writing posts to this blog (Trying).
 * [Studying English][duolingo].
 * Playing piano.
@@ -25,3 +26,4 @@ Last update Feb, 18th, 2020.
 [derek]: https://sivers.org/now
 [nei]: http://www.nei.com.br
 [duolingo]: https://www.duolingo.com/tinogomes
+[github]: https://github.com/tinogomes
