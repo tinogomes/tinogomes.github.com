@@ -17,6 +17,7 @@ Currently living in Rio de Janeiro, Brazil. Spending all my time on these:
 * Writing posts to this blog (Trying).
 * Practicing BJJ at GFTeam Realengo.
 * Playing piano.
+* Practicing [Coding Dojo at DojoRio][dojorio]
 * Studying, Reading, listening to podcasts and resting as much as I can.
 
 As a general rule, I am very overwhelmed with all these things and I don't say "no" enough. Please understand if I take too long to return an email or drop the ball.
@@ -28,3 +29,4 @@ Last update Sep, 30th, 2021.
 [working]: https://fishisfast.com
 [contributions]: https://github.com/search?p=1&q=is%3Apr+is%3Amerged+author%3Atinogomes&type=Issues
 [github]: https://github.com/tinogomes
+[dojorio]: https://youtube.com/dojorio
