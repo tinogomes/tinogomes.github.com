@@ -12,7 +12,7 @@ Currently living in Rio de Janeiro, Brazil. Spending all my time on these:
 
 * Being happy with my family.
 * Working as Software Development Specialist at [Fishisfast LLC][working].
-* [Contributing with [open source][contributions].
+* [Contributing with open source][contributions].
 * [My codes][github].
 * Writing posts to this blog (Trying).
 * Practicing BJJ at GFTeam Realengo.
@@ -21,7 +21,7 @@ Currently living in Rio de Janeiro, Brazil. Spending all my time on these:
 
 As a general rule, I am very overwhelmed with all these things and I don't say "no" enough. Please understand if I take too long to return an email or drop the ball.
 
-Last update Feb, 18th, 2020.
+Last update Sep, 30th, 2021.
 
 [now]: http://nownownow.com/about
 [derek]: https://sivers.org/now
