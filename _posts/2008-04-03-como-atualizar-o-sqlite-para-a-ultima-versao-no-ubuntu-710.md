@@ -11,7 +11,6 @@ type: post
 published: true
 meta:
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1325092506";}
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1229527062";}
   _edit_last: "2440922"
 ---
 <strong>Como atualizar o SQLite para a última versão (no Ubuntu 7.10) - por Paulo Cassiano</strong>

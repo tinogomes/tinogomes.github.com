@@ -10,7 +10,6 @@ type: post
 published: true
 meta:
   _edit_last: "2440922"
-  delicious: a:3:{s:5:"count";s:1:"1";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1297285267";}
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1325090443";}
 ---
 Esse é mais um dos milhares de post criados, falando que Rails e Merb agora vão trabalhar juntos!

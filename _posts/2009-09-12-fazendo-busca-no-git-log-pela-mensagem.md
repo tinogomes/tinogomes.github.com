@@ -8,7 +8,6 @@ type: post
 published: true
 meta:
   _edit_last: "2440922"
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1298691187";}
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1324475324";}
 ---
 As vezes queremos fazer uma busca no log do git por algum termo que esta na mensagem, então para isso...

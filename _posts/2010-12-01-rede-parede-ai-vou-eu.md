@@ -11,7 +11,6 @@ published: true
 meta:
   _edit_last: "2440922"
   jabber_published: "1291203215"
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1299376587";}
   _wp_old_slug: rede-parede-ai-vou-e
   _wpas_done_yup: "1"
   _wpas_done_twitter: "1"

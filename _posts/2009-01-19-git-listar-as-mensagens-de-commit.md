@@ -10,7 +10,6 @@ type: post
 published: true
 meta:
   _edit_last: "2440922"
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1297205817";}
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1314205635";}
 ---
 Uma forma interessante de gerar um changelog, usando as mensagens de commit do git:

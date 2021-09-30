@@ -9,7 +9,6 @@ status: publish
 type: post
 published: true
 meta:
-  delicious: a:3:{s:5:"count";s:1:"1";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1229527068";}
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1229527069";}
   _edit_last: "2440922"
 ---

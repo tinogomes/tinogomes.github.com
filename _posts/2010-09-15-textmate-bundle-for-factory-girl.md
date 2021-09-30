@@ -13,7 +13,6 @@ published: true
 meta:
   jabber_published: "1284552710"
   _edit_last: "2440922"
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1299376589";}
   _wp_old_slug: ""
   _wpas_done_yup: "1"
   _wpas_done_twitter: "1"

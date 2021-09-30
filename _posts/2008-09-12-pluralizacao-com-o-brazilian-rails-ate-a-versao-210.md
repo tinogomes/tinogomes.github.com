@@ -8,7 +8,6 @@ type: post
 published: true
 meta:
   _edit_last: "2440922"
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1231248306";}
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1325090453";}
 ---
 A um tempo atrás fiz um post falando [como habilitar a pluralização no Brazilian Rails](http://tinogomes.wordpress.com/2008/09/03/pluralizacao-com-o-brazilian-rails/), agora com a versão em GEMS/PLUGIN.

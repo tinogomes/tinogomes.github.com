@@ -13,7 +13,6 @@ type: post
 published: true
 meta:
   _edit_last: "2440922"
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1229527058";}
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1324294276";}
 ---
 [Conforme o post](http://blog.improveit.com.br/articles/2008/04/22/brazilian-rails-no-github) que o [tapajós](http://www.improveit.com.br/tapajos) comentou no blog da [Improve It](http://www.improveit.com.br), agora temos o plugin [Brazilian Rails](http://brazilian-rails.rubyforge.org/) no [github](http://github.com/tapajos/brazilian-rails).

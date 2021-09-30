@@ -14,7 +14,6 @@ type: post
 published: true
 meta:
   _edit_last: "2440922"
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1229527052";}
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1325090473";}
 ---
 Eu sempre tenho atalhos para console, pois toda hora ficar escrevendo: `$ ruby script/console`, `$ ruby script/generate blablabla`, é muita letra para apertar.

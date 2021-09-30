@@ -12,7 +12,6 @@ published: true
 meta:
   _edit_last: "2440922"
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1313438862";}
-  delicious: a:3:{s:5:"count";s:2:"17";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1229527055";}
 ---
 Extraído de [desde guia](http://github.com/guides/using-git-and-github-for-the-windows-for-newbies)
 

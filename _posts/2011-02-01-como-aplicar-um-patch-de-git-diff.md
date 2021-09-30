@@ -9,7 +9,6 @@ status: publish
 type: post
 published: true
 meta:
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1299376587";}
   _edit_last: "2440922"
   jabber_published: "1296595981"
   _wpas_done_twitter: "1"

@@ -16,7 +16,6 @@ published: true
 meta:
   _edit_last: "2440922"
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1325090430";}
-  delicious: a:3:{s:5:"count";s:1:"1";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1297446887";}
 ---
 Você usa o Textmate para desenvolvedor em Rails, então deve estar habituado abrir todas as pastas do projeto, com o famoso:
 

@@ -10,7 +10,6 @@ type: post
 published: true
 meta:
   _edit_last: "2440922"
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1268863405";}
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1325090465";}
 ---
 [Nós aqui da webco](http://www.brasigo.com.br/sobre-o-brasigo) passamos a noite acordada, afinando as últimas cordas para colocar no ar o mais novo produto Webco. Então, apresentamos o [BRASIGO](http://www.brasigo.com.br), versão Beta.

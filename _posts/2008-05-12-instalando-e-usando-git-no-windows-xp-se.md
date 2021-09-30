@@ -12,7 +12,6 @@ published: true
 meta:
   _edit_last: "2440922"
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1325090475";}
-  delicious: a:3:{s:5:"count";s:1:"9";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1229527053";}
 ---
 Bom pessoal, como vocês sabem, [escrevi este tutorial](http://tinogomes.wordpress.com/2008/05/11/instalando-e-usando-git-no-windows-xp/), explicando como instalar o Git no Windows. Mas [Urubatam](http://www.urubatan.com.br/) [lembrou muito bem](http://groups.google.com/group/rails-br/browse_thread/thread/2be35523e3e78e6f?hl=pt-BR) sobre a dificuldade de algumas pessoas de visualizar as telas e até mesmo para o [google](http://www.google.com.br) indexar o tutorial.
 

@@ -11,7 +11,6 @@ published: true
 meta:
   _edit_last: "2440922"
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1325090367";}
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1294327217";}
 ---
 **ATENÇÃO: Não tenho nenhum vínculo com o evento e nem com a empresa que está organizando, somente estou divulgando, pois achei interessante!**
 

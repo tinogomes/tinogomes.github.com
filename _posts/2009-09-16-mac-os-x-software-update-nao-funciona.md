@@ -11,7 +11,6 @@ type: post
 published: true
 meta:
   _edit_last: "2440922"
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1298699433";}
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1325090349";}
 ---
 Quando ainda estávamos na Webco, meu MacBook foi configurado para pegar as atualizações de nosso servidor interno. Até então funcionava e era bem rápido, pois como o servidor fazia o download de todas as atualizações para si, quando nossos Mac Books iam fazer os devidos updates, usava essa cópia local e ficava bem mais rápido o update. Mas devido as mudanças que ocorreram, "perdemos" nosso servidor central de updates e como minha máquina apontava para esta, não mais conseguia fazer os updates. Mas nada que um começo de férias para resolver esse problema. Resolvi solucionar esse problema e não foi fácil achar a solução, então resolvi colocar aqui para quem precisar.

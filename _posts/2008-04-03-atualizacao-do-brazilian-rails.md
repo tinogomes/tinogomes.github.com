@@ -10,7 +10,6 @@ type: post
 published: true
 meta:
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1313438895";}
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1229527063";}
   _edit_last: "2440922"
 ---
 Seguindo a sugestão de [Guilherme Garnier](http://ggarnier.wordpress.com/) e o patch enviado por ele, ocorreram as seguintes novidades:

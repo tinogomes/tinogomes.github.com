@@ -12,7 +12,6 @@ published: true
 meta:
   _edit_last: "2440922"
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1325090449";}
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1233900879";}
 ---
 Ao peger uma instância de um objeto qualquer e adicionar dinâmicamente um método a esta instância, ela se torna um singleton.
 

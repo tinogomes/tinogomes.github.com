@@ -11,7 +11,6 @@ type: post
 published: true
 meta:
   _edit_last: "2440922"
-  delicious: a:3:{s:5:"count";s:1:"0";s:9:"post_tags";s:0:"";s:4:"time";s:10:"1229527049";}
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1325090470";}
 ---
 Como muitos já sabem, [estamos refatorando o plugin Brazilian Rails](http://blog.improveit.com.br/articles/2008/06/21/o-futuro-do-brazilian-rails), para torná-lo um [conjunto de gems](http://blog.improveit.com.br/articles/2008/06/23/agora-%C3%A9-a-hora), não perdendo a opção de instalar como plugin.
