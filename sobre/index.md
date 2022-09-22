@@ -6,17 +6,14 @@ title: "Sobre mim"
 
 ## Quem sou eu?
 
-**Celestino Ferreira Gomes**, também conhecido como Tino Gomes. Trabalho na área de desenvolvimento de software desde 1996.
+**Celestino Ferreira Gomes**, também conhecido como Tino Gomes. Trabalho na área de desenvolvimento de software desde 1996. Nascido no Rio de Janeiro. Pai de Camille e Lorena. Marido de Glauce. Cristão. Tecladista.
 
 ## O que já fiz?
 
-### Curso
-
-* [Introdução a programação com Ruby](https://github.com/abril/ruby-course);
-* [Git](http://bit.ly/abrilcursogit);
-
 ### Eventos
 
+* Mini curso [Introdução a programação com Ruby](http://bit.ly/cursorubyabril) 2013;
+* Mini curso [Git](http://bit.ly/abrilcursogit) 2013;
 * Organizador do [DEV in SAMPA](http://devinsampa.com.br) 2009-2013;
 * Palestra online [Git é seu amigo](http://www.slideshare.net/tinorj/git-e-seu-amigo) no Rails for Kids 2009;
 * Tech Talk - Selenium on Rails: Bate-papo técnico de como usar o plugin Selenium on Rails para testes em sistemas Web em 2008;
@@ -32,15 +29,15 @@ title: "Sobre mim"
 * [Myfinance](http://www.myfinance.com.br) pela [Myfreecomm](http://www.myfreecomm.com.br);
 * Plataforma de publicação de conteúdo (Alexandria) da Editora Abril;
 * Gateway de Pagamento (Akatus pela Concrete Solution);
-* Catalogo de Serviços voltados ao segmento de Festas Infantis pela [D2B](http://www.d2b.com.br) (freela);
+* Catalogo de Serviços voltados ao segmento de Festas Infantis pela agência [D2B](http://www.d2b.com.br) (freela);
 * Classificados de anúncios pela RedeParede;
 * Catalogo de serviços pela RedeParede;
 * Canais do BlogBlogs pela Abril Digital;
-* Otimizações no site da [JMC](http://www.jmc.com.br/) pela D2B (freela);
-* Hotsite de concurso cultural pela D2B (freela);
+* Otimizações no site da [JMC](http://www.jmc.com.br/) pela agência D2B (freela);
+* Hotsite de concurso cultural pela agência D2B (freela);
 * Plataforma de inscrições para o DEV in SAMPA;
 * [Site do Dev in Sampa](http://www.devinsampa.com.br/);
-* Plataforma de CMS pela 14bits (freela);
+* Plataforma de CMS pela agência 14bits (freela);
 * Plataforma de CMS e site da VejaSP pela Abril Digital;
 * Brasigo pela Abril Digital/Webco;
 * BlogBlogs (Indexador de Blogs Brasileiro) pela Abril Digital/Webco;
@@ -64,13 +61,19 @@ title: "Sobre mim"
 ### Java
 
 * [appFitoo](http://facebook.com.br/appfitoo): Aplicativo Android;
-* Ancar2Go: Business Intelligence com ênfase em análise de resultado sobre plantas baixas;
+* [Ancar2Go](https://www.flickr.com/search/?user_id=8512982%40N05&view_all=1&text=ancar2go): Business Intelligence com ênfase em análise de resultado sobre plantas baixas;
 * Mapper: foi um sub-projeto do Ancar2Go, com o objetivo de importar as plantas desenvolvidas em AutoCAD, com integração de informações com sistema de faturamento;
 
 ### Delphi
 
-* Sistemas Gerenciais em: Administração de Shopping Center, Administração Hospitalar, Cobrança de Associação, Provedor de Internet, Patrimonial (projeto TCC);
+* Administração de Shopping Center e Faturamento - Ancar
+* Administração e Faturamento Hospitalar, Gestão de Estoque/Farmácia, Prontuário Médico - Hospital Italiano
+* Ordem de Serviço/Atendimento a Suporte Técnico para Provedores de Internet - Radlink (freela)
+* Patrimonial (projeto TCC - FIJ);
 
 ### Clipper
 
-* Sistemas Gerenciais em: Administração Hospitalar, Gestão Financeira, Controle de Manutenção de Equipamentos; Gestão de Cobrança;
+* Administração e Faturamento Hospitalar, Gestão de Estoque/Farmácia, Prontuário Médico - Hospital Italiano
+* Cadastro, Cobrança de Associados, Contas a Pagar/Receber e Financeiro - ACIJA (freela)
+* Contas a Pagar/Receber e Financeiro - Telemux
+* Gestão de Materiais, Controle de Manutenção e Catalogo de Peças - Telemux
