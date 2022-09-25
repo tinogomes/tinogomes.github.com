@@ -12,12 +12,12 @@ title: "Sobre mim"
 
 ### Eventos
 
-* Mini curso [Introdução a programação com Ruby](http://bit.ly/cursorubyabril) 2013;
-* Mini curso [Git](http://bit.ly/abrilcursogit) 2013;
-* Organizador do [DEV in SAMPA](http://devinsampa.com.br) 2009-2013;
-* Palestra online [Git é seu amigo](http://www.slideshare.net/tinorj/git-e-seu-amigo) no Rails for Kids 2009;
+* Mini curso [Introdução a programação com Ruby](https://bit.ly/cursorubyabril) 2013;
+* Mini curso [Git](https://bit.ly/abrilcursogit) 2013;
+* Organizador do [DEV in SAMPA](https://devinsampa.com.br) 2009-2013;
+* Palestra online [Git é seu amigo](https://www.slideshare.net/tinorj/git-e-seu-amigo) no Rails for Kids 2009;
 * Tech Talk - Selenium on Rails: Bate-papo técnico de como usar o plugin Selenium on Rails para testes em sistemas Web em 2008;
-* Palestra online [Brazilian Rails em ação](http://www.slideshare.net/tinorj/brazilian-rails-em-ao-presentation) no Café com o Tom em 2008;
+* Palestra online [Brazilian Rails em ação](https://www.slideshare.net/tinorj/brazilian-rails-em-ao-presentation) no Café com o Tom em 2008;
 * Palestra "Brazilian Rails" no Rio on Rails em 2007;
 
 ### Ruby
