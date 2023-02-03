@@ -11,11 +11,11 @@ This is my [now page][now], inspired by [Derek Sievers][derek].
 Currently living in Rio de Janeiro, Brazil. Spending all my time on these:
 
 * Being happy with my family.
-* [Open to work][linkedin].
+* [Full Stack Software Engineer at +SUBSCRIBE][subscribe]
 * [Contributing with open source][contributions].
 * [My codes][github].
 * Writing posts to this blog (Trying).
-* Practicing BJJ at GFTeam Realengo.
+* Blue Belt BJJ at GFTeam Realengo.
 * Playing piano.
 * Practicing [Coding Dojo at DojoRio][dojorio]
 * Studying, Reading, listening to podcasts and resting as much as I can.
@@ -27,4 +27,4 @@ Last update Sep, 25th, 2022.
 [contributions]: https://github.com/search?p=1&q=is%3Apr+is%3Amerged+author%3Atinogomes&type=Issues
 [github]: https://github.com/tinogomes
 [dojorio]: https://youtube.com/dojorio
-[linkedin]: https://linkedin.com/in/tinogomes
+[subscribe]: https://subscribeplatform.com/
