@@ -4,13 +4,9 @@ title: "Resumo"
 ---
 {% include JB/setup %}
 
-**2022** - *Setembro* Saída da Fishisfast; O que vem por esperar?
+**2022** - *Setembro* Saída da Fishisfast; O que vem por esperar? *Outubro* Início na [+SUBSCRIBE][subscribe]
 
 **2020** - *Fevereiro* Saída do Gaveteiro e inicio na [Fishisfast][fishisfast]; *Março* Sofremos com as enchentes do Rio de Janeiro;
-
-**2019** - Estamos trabalhando muito ainda...
-
-**2018** - Só trabalhando muito e perdendo "amizades" por conta de visão política ¯\\_(ツ)_/¯;
 
 **2017** - *Julho* - Saída do Fitoo;
 
@@ -61,3 +57,4 @@ title: "Resumo"
 [hurb]: https://hurb.com
 [nei]: https://web.archive.org/web/20220000000000*/https://www.gaveteiro.com.br/
 [fishisfast]: https://fishisfast.com
+[subscribe]: https://subscribeplatform.com/
