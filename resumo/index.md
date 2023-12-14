@@ -6,7 +6,7 @@ title: "Resumo"
 
 **2022** - *Setembro* Saída da Fishisfast; O que vem por esperar? *Outubro* Início na [+SUBSCRIBE][subscribe]
 
-**2020** - *Fevereiro* Saída do Gaveteiro e inicio na [Fishisfast][fishisfast]; *Março* Sofremos com as enchentes do Rio de Janeiro;
+**2020** - *Fevereiro* Saída do Gaveteiro e inicio na [Fishisfast][fishisfast]; *Março* [Sofremos com as enchentes do Rio de Janeiro][enchente];
 
 **2017** - *Julho* - Saída do Fitoo;
 
@@ -58,3 +58,4 @@ title: "Resumo"
 [nei]: https://web.archive.org/web/20220000000000*/https://www.gaveteiro.com.br/
 [fishisfast]: https://fishisfast.com
 [subscribe]: https://subscribeplatform.com/
+[enchente]: https://www.asuswebstorage.com/navigate/a/#/s/762050E10BB848538AC637354EB863324
