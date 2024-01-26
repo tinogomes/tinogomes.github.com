@@ -5,7 +5,7 @@ description: ""
 category:
 tags:
   - ruby
-status: publich
+status: published
 type: post
 published: true
 ---
