@@ -114,7 +114,8 @@ JB :
     gauges :
         site_id : 'SITE ID'
     google :
-        tracking_id : 'UA-8388807-2'
+        tracking_id : 'G-VKJS3HER2Z'
+        # tracking_id : 'UA-8388807-2'
     getclicky :
       site_id :
     mixpanel :
