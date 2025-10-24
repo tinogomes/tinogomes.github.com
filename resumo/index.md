@@ -4,6 +4,8 @@ title: "Resumo"
 ---
 {% include JB/setup %}
 
+**2025** - *Maio* Saída da Subscribe; *Junho* Início na [Known Decimal][knowndecimal]
+
 **2023** - *Setembro/Outubro* Primeira viagem à Disney em Família 👨‍👩‍👧‍👧✈️🇺🇸. Obrigado Camille por escolher esse presente de aniversário de 15 anos. ❤️
 
 **2022** - *Setembro* Saída da Fishisfast; *Outubro* Início na [+SUBSCRIBE][subscribe]
@@ -61,3 +63,4 @@ title: "Resumo"
 [fishisfast]: https://fishisfast.com
 [subscribe]: https://subscribeplatform.com/
 [enchente]: https://www.asuswebstorage.com/navigate/a/#/s/762050E10BB848538AC637354EB863324
+[knowndecimal]: [https://knowndecimal.com/]
