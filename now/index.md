@@ -20,7 +20,7 @@ Currently living in Rio de Janeiro, Brazil. Spending all my time on these:
 * Practicing [Coding Dojo at DojoRio][dojorio]
 * Studying, Reading, listening to podcasts and resting as much as I can.
 
-Last update Sep, 25th, 2022.
+Last update Oct, 24th, 2025.
 
 [now]: http://nownownow.com/about
 [derek]: https://sivers.org/now
