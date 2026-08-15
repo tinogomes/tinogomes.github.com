@@ -11,7 +11,7 @@ This is my [now page][now], inspired by [Derek Sievers][derek].
 Currently living in Rio de Janeiro, Brazil. Spending all my time on these:
 
 * Being happy with my family.
-* [Full Stack Software Engineer at +SUBSCRIBE][knowndecimal]
+* Looking for new projects.
 * [Contributing with open source][contributions].
 * [My codes][github].
 * Writing posts to this blog (Trying).
@@ -27,4 +27,3 @@ Last update Oct, 24th, 2025.
 [contributions]: https://github.com/search?p=1&q=is%3Apr+is%3Amerged+author%3Atinogomes&type=Issues
 [github]: https://github.com/tinogomes
 [dojorio]: https://youtube.com/dojorio
-[knowndecimal]: https://knowndecimal.com/

@@ -4,6 +4,8 @@ title: "Resumo"
 ---
 {% include JB/setup %}
 
+**2026** - *Agosto* Saída da Known Decimal; Esperando o que está por vir
+
 **2025** - *Maio* Saída da Subscribe; *Junho* Início na [Known Decimal][knowndecimal]
 
 **2023** - *Setembro/Outubro* Primeira viagem à Disney em Família 👨‍👩‍👧‍👧✈️🇺🇸. Obrigado Camille por escolher esse presente de aniversário de 15 anos. ❤️

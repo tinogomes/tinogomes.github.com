@@ -22,6 +22,7 @@ title: "Sobre mim"
 
 ### Ruby
 
+* CRM Subscribe
 * Implementado método `Hash#compact` e `Hash#compact!` no ActiveSupport do Rails, que depois foi migrado para a própria linguagem Ruby. [Veja toda discussão do _Pull Request_ até a aceitação do mesmo](https://github.com/rails/rails/pull/13632);
 * Site de gestão de vendas e APIs do [Gaveteiro](http://www.gaveteiro.com.br);
 * Administrador do [Fitoo](http://www.appfitoo.com.br);
