@@ -4,15 +4,15 @@ title: "Resumo"
 ---
 {% include JB/setup %}
 
-**2026** - *Agosto* Saída da Known Decimal; Esperando o que está por vir
+**2026** - *Junho* - Comecei uma Pós Graduação em Engenharia de Software com IA Aplicada, pela UNIPDS/Anhanguera; *Agosto* - Saída da Known Decimal; Esperando o que está por vir
 
-**2025** - *Maio* Saída da Subscribe; *Junho* Início na [Known Decimal][knowndecimal]
+**2025** - *Maio* - Saída da Subscribe; *Junho* Início na [Known Decimal][knowndecimal]; *Dezembro* - Fomos em família passar Natal e Ano Novo na Disney (que vontade de ficar).
 
-**2023** - *Setembro/Outubro* Primeira viagem à Disney em Família 👨‍👩‍👧‍👧✈️🇺🇸. Obrigado Camille por escolher esse presente de aniversário de 15 anos. ❤️
+**2023** - *Setembro/Outubro* - Primeira viagem à Disney em Família 👨‍👩‍👧‍👧✈️🇺🇸. Obrigado Camille por escolher esse presente de aniversário de 15 anos. ❤️
 
-**2022** - *Setembro* Saída da Fishisfast; *Outubro* Início na [+SUBSCRIBE][subscribe]
+**2022** - *Setembro* - Saída da Fishisfast; *Outubro* Início na [+SUBSCRIBE][subscribe]
 
-**2020** - *Fevereiro* Saída do Gaveteiro e inicio na [Fishisfast][fishisfast]; *Março* [Sofremos com as enchentes do Rio de Janeiro][enchente];
+**2020** - *Fevereiro* - Saída do Gaveteiro e inicio na [Fishisfast][fishisfast]; *Março* - [Sofremos com as enchentes do Rio de Janeiro][enchente];
 
 **2017** - *Julho* - Saída do Fitoo;
 
@@ -38,7 +38,7 @@ title: "Resumo"
 
 **2005** - Fui trabalhar na [Ancar](https://www.ancar.com.br) como Analista Programador e onde minha carreira com Agile começou.
 
-**2004** - Me casei;
+**2004** - Promovido a marido. Me casei com Glauce;
 
 **2003** - Terminei minha graduação nas FIJ com TCC "Sistema de Controle Patrimonial", sob orientação do professor Ronaldo Ribeiro Goldschmidt;
 
